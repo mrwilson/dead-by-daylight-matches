@@ -1013,3 +1013,110 @@ Midwich,Spirit,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing 
 Lampkin Lane,Executioner,0,N,Open-Handed (V),Bond (V),Kindred (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
 Lampkin Lane,Nightmare,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Overcome (V),First Aid Kit (U),Bandages (C),Styptic Agent (V),Escape! Cake (U),1
 Mother's Dwelling,Clown,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
+Lampkin Lane,Hag,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+Mount Ormond Resort,Mastermind,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),Annotated Blueprint (C),1
+Sanctum of Wrath,Trickster,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Ranger's Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),-1
+Dead Dawg Saloon,Deathslinger,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),0
+RPD West Wing,Ghostface,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+Fractured Cowshed,Huntress,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+Wreckers Yard,Wraith,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+Gas Heaven,Spirit,2,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+RPD West Wing,Pig,2,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),2
+RPD East Wing,Nurse,2,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),0
+Lampkin Lane,Deathslinger,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),0
+Bad IV,Spirit,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),1
+Eyrie of Crows,Mastermind,4,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),2
+Badham IV,Ghostface,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),Bloody Party Streamers (R),1
+Torment Creek,Wraith,0,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),,1
+Sanctum of Wrath,Mastermind,0,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),,,,,1
+Badham IV,Blight,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
+Rotten Fields,Mastermind,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),-1
+Midwich,Huntress,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Badham II,Hillbilly,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Wreckers Yard,Onryo,1,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+RPD East,Plague,1,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
+Mount Ormond Resort,Mastermind,1,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
+Family Residence,Spirit,3,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Mount Ormond Resort,Plague,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Treatment Theatre,Trapper,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Torment Creek,Ghostface,2,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Eyrie of Crows,Nemesis,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
+RPD East,Spirit,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Family Residence,Shape,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+The Game,Cenobite,2,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Eyrie of Crows,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
+Lampkin Lane,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),0
+Midwich,Deathslinger,0,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Annotated Blueprint (C),-1
+Bad IV,Cannibal,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Vigo's Jar of Salty Lips (V),-1
+Gas Heaven,Nemesis,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),0
+RPD East,Onryo,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),2
+The Game,Wraith,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),0
+Garden of Joy,Spirit,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+RPD West Wing,Twins,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+Lampkin Lane,Oni,2,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Bloody Party Streamers (R),1
+Bad IV,Mastermind,1,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
+Midwich,Knight,0,N,Open-Handed (V),Bond (V),Kindred (V),Potential Energy (U),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),-1
+Family Residence,Knight,1,N,Open-Handed (V),Bond (V),Kindred (V),Potential Energy (U),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),0
+Bad IV,Twins,4,Y,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Escape! Cake (U),1
+Groaning Storehouse,Knight,0,N,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Escape! Cake (U),1
+Fractured Cowshed,Knight,4,Y,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Sealed Envelope (U),1
+The Game,Knight,2,N,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Sealed Envelope (U),1
+Suffocation Pit,Knight,0,N,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Sealed Envelope (U),1
+Shattered Square,Doctor,0,N,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Sealed Envelope (U),1
+Shelter Woods,Dredge,0,N,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Sealed Envelope (U),
+Shattered Square,Knight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+Eyrie of Crows,Nemesis,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+Eyrie of Crows,Hillbilly,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+Family Residence,Blight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Sweet William (R),0
+Shattered Square,Deathslinger,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),1
+Midwich,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),0
+Lampkin Lane,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),0
+The Pale Rose,Knight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),1
+Groaning Storehouse,Nemesis,1,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Shiny Coin (V),-1
+Midwich,Wraith,0,N,Quick Gambit (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),,Sealed Envelope (U),1
+Rotten Fields,Executioner,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),,Bloody Party Streamers (R),1
+RPD East,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+Garden of Joy,Hag,1,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sacrificial Ward (R),2
+Bad V,Onryo,2,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
+The Game,Huntress,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sealed Envelope (U),2
+Mount Ormond Resort,Onryo,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
+The Pale Rose,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
+Temple of Purgation,Artist,1,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Bandages (C),Surgical Suture (R),Sealed Envelope (U),1
+Disturbed Ward,Demogorgon,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gauze Roll (U),Surgical Suture (R),Fragrant Sweet William (R),1
+Fractured Cowshed,Knight,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gauze Roll (U),Surgical Suture (R),Fragrant Sweet William (R),-1
+Grim Pantry,Plague,1,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Shiny Coin (V),0
+Treatment Theatre,Mastermind,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Fragrant Sweet William (R),1
+Shattered Square,Nightmare,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Beef Tallow Mixture (R),2
+Lampkin Lane,Mastermind,3,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),1
+Wretched Shop,Oni,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Shattered Square,Huntress,3,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),1
+RPD East,Nurse,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Midwich,Nurse,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
+Bad V,Ghostface,3,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Bandages (C),Surgical Suture (R),Shiny Coin (V),1
+Disturbed Ward,Doctor,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Fragrant Crispleaf Amaranth (R),-1
+Lampkin Lane,Ghostface,3,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Fragrant Crispleaf Amaranth (R),2
+The Game,Trapper,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),2
+RPD East,Blight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+The Game,Huntress,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),0
+Shattered Square,Knight,2,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Self-Adherent Wrap (U),Fragrant Crispleaf Amaranth (R),1
+The Game,Pig,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),1
+Groaning Storehouse,Wraith,1,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
+Father Campbell's Chapel,Nemesis,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Escape! Cake (U),-1
+RPD East,Dredge,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),0
+RPD West Wing,Shape,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
+RPD East,Blight,2,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Utility Flashlight (V),Long Life Battery (R),Heavy Duty Battery (U),RPD Badge (R),1
+RPD East,Nurse,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
+RPD East,Huntress,,DC,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),RPD Badge (R),-1
+RPD West Wing,Pig,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+father Campbell's Chapel,Huntress,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sacrificial Ward (R),-1
+RPD East,Trapper,2,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+RPD West Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),RPD Badge (R),0
+Midwich,Twins,1,Y,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Treatment Theatre,Knight,0,N,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),1
+Mount Ormond Resort,Knight,0,N,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),2
+The Game,Deathslinger,0,N,Repressed Alliance (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
+Garden of Joy,Ghostface,4,Y,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Ichorous Loam (R),2
+RPD West Wing,Nemesis,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),1
+Eyrie of Crows,Cannibal,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Ichorous Loam (R),-1
+RPD West Wing,Blight,0,N,Flashbang (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),-1
+RPD East Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),RPD Badge (R),0
