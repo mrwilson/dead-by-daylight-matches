@@ -30,7 +30,7 @@ Lampkin Lane,Trapper,4,Y,Saboteur (U),,,,,,,Fresh Sweet William (U),
 Treatment Theatre,Trapper,3,N,Saboteur (U),,,,Worn-Out Tools (C),,,Vigo's Shroud (U),
 Suffocation Pit,Legion,0,N,Saboteur (U),No One Left Behind (U),,,Worn-Out Tools (C),,,Chalk Pouch (C),
 Disturbed Ward,Wraith,0,N,Saboteur (U),Iron Will (U),,,,,,Hazy Reagent (U),
-Racoon City Police Dept,Nemesis,4,Y,Technician (R),Alert (V),Deja Vu (V),Plunderer's Instinct (R),Toolbox (U),,,Escape! Cake (U),
+Raccoon City Police Station,Nemesis,4,Y,Technician (R),Alert (V),Deja Vu (V),Plunderer's Instinct (R),Toolbox (U),,,Escape! Cake (U),
 Torment Creek,Executioner,4,Y,Saboteur (U),Iron Will (U),,,Flashlight (U),Leather Grip (C),Power Bulb (C),Torn Blueprint (C),
 Temple of Purgation,Nurse,0,N,Streetwise (U),,,,Toolbox (U),,,Vigo's Blueprint (C),
 Eyrie of Crows,Wraith,1,N,Prove Thyself (U),,,,Worn-Out Tools (C),,,,
@@ -75,7 +75,7 @@ Temple of Purgation,Artist,0,N,Technician (R),Alert (V),Small Game (U),Spine Chi
 The Game,Blight,2,Y,Technician (R),Alert (V),Small Game (U),Spine Chill (U),Toolbox (U),Instructions (C),,Sealed Envelope (U),2
 Disturbed Ward,Trapper,4,Y,Technician (R),Alert (V),Small Game (U),Spine Chill (R),Toolbox (U),,,Vigo's Shroud (U),0
 Mother's Dwelling,Clown,0,N,Technician (R),Alert (V),Small Game (U),Spine Chill (R),Toolbox (U),,,Bog Laurel Sachet (C),0
-Racoon City Police Dept,Trapper,4,Y,Technician (R),Alert (V),Kindred (U),Spine Chill (R),Toolbox (U),,,Bog Laurel Sachet (C),1
+Raccoon City Police Station,Trapper,4,Y,Technician (R),Alert (V),Kindred (U),Spine Chill (R),Toolbox (U),,,Bog Laurel Sachet (C),1
 Azarov's Resting Place,Doctor,4,Y,Technician (R),Alert (V),Kindred (U),Spine Chill (R),Commodious Toolbox (R),Instructions (C),Socket Swivels (U),Ivory Chalk Pouch (R),1
 Father Campbell's Chapel,Doctor,4,Y,Technician (R),Alert (V),Kindred (R),Spine Chill (R),Commodious Toolbox (R),Cutting Wire (U),,Ivory Chalk Pouch (R),1
 Torment Creek,Hillbilly,4,N,Technician (R),Alert (V),Lithe (V),Spine Chill (R),Commodious Toolbox (R),Clean Rag (C),Cutting Wire (U),Sealed Envelope (U),0
@@ -137,7 +137,7 @@ Sanctum of Wrath,Trapper,0,N,Saboteur (R),Iron Will (R),Kindred (R),Dead Hard (R
 Disturbed Ward,Nemesis,-1,N,Saboteur (R),Iron Will (R),Kindred (R),Dead Hard (R),Toolbox (U),Cutting Wire (U),Grip Wrench (R),Cream Chalk Pouch (U),0
 The Pale Rose,Doctor,4,Y,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Toolbox (U),,,Sweet William Sachet (C),1
 Blood Lodge,Shape,0,N,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Mechanics Toolbox (R),Brand New Part (L),,Sealed Envelope (U),0
-Racoon City Police Dept,Legion,2,N,Borrowed Time (V),Resilience (V),Lithe (V),Spine Chill (V),Camping Aid Kit (C),,,Sealed Envelope (U),1
+Raccoon City Police Station,Legion,2,N,Borrowed Time (V),Resilience (V),Lithe (V),Spine Chill (V),Camping Aid Kit (C),,,Sealed Envelope (U),1
 Treatment Theatre,Hillbilly,1,Y,Borrowed Time (V),Resilience (V),Lithe (V),Spine Chill (V),Camping Aid Kit (C),Abdominal Dressing (R),Rubber Gloves (C),Primrose Blossom Sachet (C),2
 Father Campbell's Chapel,Cannibal,3,Y,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Commodious Toolbox (R),Instructions (C),,Sweet William Sachet (C),1
 Eyrie of Crows,Wraith,3,Y,Streetwise (R),Urban Evasion (R),Balanced Landing (R),Situational Awareness (R),Worn-Out Tools (C),Instructions (C),Spring Clamp (U),Sealed Envelope (U),1
@@ -146,18 +146,18 @@ Ironworks of Misery,Legion,1,Y,Saboteur (R),Iron Will (R),Kindred (R),Dead Hard 
 Dead Dawg Saloon,Nurse,2,N,Saboteur (V),Iron Will (R),Kindred (R),Dead Hard (R),First Aid Kit (U),Bandages (C),Medical Scissors (U),Bound Envelope (R),0
 Ironworks of Misery,Hag,0,N,Saboteur (V),Iron Will (R),Kindred (R),Dead Hard (R),Camping Aid Kit (C),Butterfly Tape (C),,Escape! Cake (U),0
 The Pale Rose,Hag,0,N,Saboteur (V),Iron Will (R),Kindred (R),Dead Hard (R),Camping Aid Kit (C),,,Shroud of Binding (V),0
-Badham II,Wraith,1,Y,Saboteur (V),Resilience (R),Kindred (R),Dead Hard (R),Emergency Med-Kit (R),,,Shroud of Union (U),1
+Badham Preschool II,Wraith,1,Y,Saboteur (V),Resilience (R),Kindred (R),Dead Hard (R),Emergency Med-Kit (R),,,Shroud of Union (U),1
 The Thompson House,Huntress,4,Y,Saboteur (V),Resilience (R),Borrowed Time (U),Dead Hard (R),Emergency Med-Kit (R),,,Shroud of Union (U),0
 Blood Lodge,Nurse,0,N,Saboteur (V),Resilience (R),Borrowed Time (R),Dead Hard (R),Emergency Med-Kit (R),Medical Scissors (U),Needle & Thread (U),Hazy Reagent (U),0
 Lampkin Lane,Huntress,4,Y,Saboteur (V),Resilience (R),Borrowed Time (R),Dead Hard (R),Toolbox (U),Protective Gloves (U),Cutting Wire (U),Hazy Reagent (U),2
-Midwich,Legion,0,N,Saboteur (V),Resilience (R),Borrowed Time (R),Dead Hard (R),Toolbox (U),Protective Gloves (U),Clean Rag (C),Hazy Reagent (U),1
+Midwich Elementary School,Legion,0,N,Saboteur (V),Resilience (R),Borrowed Time (R),Dead Hard (R),Toolbox (U),Protective Gloves (U),Clean Rag (C),Hazy Reagent (U),1
 Temple of Purgation,Hag,3,Y,Saboteur (V),Resilience (R),Borrowed Time (R),Dead Hard (R),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fresh Primrose Blossom (U),1
 The Pale Rose,Trapper,1,N,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),First Aid Kit (U),Gel Dressings (R),Rubber Gloves (C),Fragrant Bog Laurel (R),-1
 Suffocation Pit,Huntress,1,N,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),First Aid Kit (U),,,Primrose Blossom Sachet (C),1
 Disturbed Ward,Trapper,3,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Scraps (C),Socket Swivels (U),Primrose Blossom Sachet (C),0
 The Game,Nemesis,4,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Scraps (C),Socket Swivels (U),Bog Laurel Sachet (C),1
 Dead Dawg Saloon,Oni,4,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Scraps (C),Hacksaw (R),Bog Laurel Sachet (C),1
-Badham V,Demogorgon,3,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Clean Rag (C),Scraps (C),Bog Laurel Sachet (C),2
+Badham Preschool V,Demogorgon,3,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Clean Rag (C),Scraps (C),Bog Laurel Sachet (C),2
 Grim Pantry,Trapper,1,N,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Toolbox (U),Clean Rag (C),Scraps (C),Bog Laurel Sachet (C),0
 Temple of Purgation,Shape,4,Y,Saboteur (V),Resilience (R),Borrowed Time (V),Dead Hard (R),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Bog Laurel Sachet (C),1
 Lampkin Lane,???,4,Y,Saboteur (V),Resilience (V),Borrowed Time (V),Dead Hard (R),Commodious Toolbox (R),Scraps (C),Instructions (C),Fresh Primrose Blossom (U),0
@@ -178,7 +178,7 @@ Lampkin Lane,Cenobite,1,Y,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine C
 Wretched Shop,Cenobite,2,N,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Camping Aid Kit (C),Needle & Thread (U),Rubber Gloves (C),Fresh Primrose Blossom (U),-1
 Temple of Purgation,Cannibal,1,Y,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Toolbox (U),Protective Gloves (U),Instructions (C),Vigo's Jar of Salty Lips (V),1
 Family Residence,Hillbilly,4,Y,Borrowed Time (V),Resilience (V),Dead Hard (V),Spine Chill (V),Camping Aid Kit (C),Needle & Thread (U),Rubber Gloves (C),Fresh Primrose Blossom (U),0
-Badham VI,Demogorgon,1,N,Borrowed Time (V),Guardian (V),Dead Hard (V),Spine Chill (V),Alex's Toolbox (V),Grip Wrench (R),,White Ward (V),0
+Badham Preschool IV,Demogorgon,1,N,Borrowed Time (V),Guardian (V),Dead Hard (V),Spine Chill (V),Alex's Toolbox (V),Grip Wrench (R),,White Ward (V),0
 The Pale Rose,Nurse,0,N,Borrowed Time (V),Saboteur (U),Dead Hard (V),Spine Chill (V),Camping Aid Kit (C),Surgical Suture (R),Sponge (U),Shroud of Binding (V),0
 The Pale Rose,Executioner,0,N,Borrowed Time (V),Saboteur (R),Dead Hard (V),Spine Chill (V),Camping Aid Kit (C),Abdominal Dressing (R),,Sealed Envelope (U),-1
 Dead Dawg Saloon,Hillbilly,3,Y,Borrowed Time (V),Saboteur (R),Dead Hard (V),Spine Chill (V),Camping Aid Kit (C),Rubber Gloves (C),,Fresh Crispleaf Amaranth (U),1
@@ -189,7 +189,7 @@ Eyrie of Crows,Trapper,4,Y,Borrowed Time (V),Saboteur (V),Dead Hard (V),Spine Ch
 Dead Dawg Saloon,Legion,0,N,Borrowed Time (V),Saboteur (V),Iron Will (V),Spine Chill (V),Mechanics Toolbox (R),Instructions (C),Scraps (C),Fresh Sweet William (U),1
 Treatment Theatre,Ghostface,0,N,Borrowed Time (V),Saboteur (V),Small Game (V),Spine Chill (V),Camping Aid Kit (C),Surgical Suture (R),Sponge (U),Fresh Crispleaf Amaranth (U),0
 Father Campbell's Chapel,Wraith,4,Y,Borrowed Time (V),Saboteur (V),Kindred (V),Spine Chill (V),Camping Aid Kit (C),,,Primrose Blossom Sachet (C),1
-Badham IV,Wraith,2,N,Saboteur (R),Lithe (U),Decisive Strike (U),,Camping Aid Kit (C),Medical Scissors (U),Bandages (C),Escape! Cake (U),1
+Badham Preschool IV,Wraith,2,N,Saboteur (R),Lithe (U),Decisive Strike (U),,Camping Aid Kit (C),Medical Scissors (U),Bandages (C),Escape! Cake (U),1
 Treatment Theatre,Deathslinger,3,Y,Borrowed Time (V),Saboteur (V),Dead Hard (V),Slippery Meat (V),Sport Flashlight (R),High-End Sapphire Lens (V),Long Life Battery (R),Cream Chalk Pouch (U),1
 The Game,Legion,4,Y,Borrowed Time (V),Saboteur (V),Dead Hard (V),Resilience (V),Mechanics Toolbox (R),Socket Swivels (U),Scraps (C),Cream Chalk Pouch (U),1
 Treatment Theatre,Nemesis,0,N,Borrowed Time (V),Saboteur (V),Kindred (V),Resilience (V),Mechanics Toolbox (R),Brand New Part (L),Scraps (C),Salt Pouch (U),1
@@ -209,7 +209,7 @@ Eyrie of Crows,Doctor,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience
 Mount Ormond Resort,Onryo,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Emergency Med-Kit (R),Needle & Thread (U),Rubber Gloves (C),Fresh Sweet William (U),-1
 Eyrie of Crows,Wraith,1,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Emergency Med-Kit (R),,,Primrose Blossom Sachet (C),1
 The Thompson House,Huntress,-1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Emergency Med-Kit (R),,,Primrose Blossom Sachet (C),0
-Racoon City Police Dept,Wraith,3,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Toolbox (U),Hacksaw (R),Protective Gloves (U),Cream Chalk Pouch (U),0
+Raccoon City Police Station,Wraith,3,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Toolbox (U),Hacksaw (R),Protective Gloves (U),Cream Chalk Pouch (U),0
 Badham Preschool II,Nurse,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),First Aid Kit (U),Gauze Roll (U),Needle & Thread (U),Fresh Bog Laurel (U),1
 Rancid Abattoir,Legion,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Emergency Med-Kit (R),Gel Dressings (R),Medical Scissors (U),Heart Locket (R),0
 Lampkin Lane,Onryo,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Alex's Toolbox (V),Hacksaw (R),Grip Wrench (R),Strode Realty Key (R),1
@@ -225,7 +225,7 @@ Eyrie of Crows,Ghostface,2,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small G
 Treatment Theatre,Nemesis,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small Game (V),Camping Aid Kit (C),Gel Dressings (R),Medical Scissors (U),Fresh Crispleaf Amaranth (U),0
 Mother's Dwelling,Executioner,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small Game (V),Commodious Toolbox (R),Clean Rag (C),Instructions (C),Bog Laurel Sachet (C),1
 Mount Ormond Resort,Trickster,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small Game (V),Map (R),Odd Stamp (R),Retardant Jelly (U),Torn Blueprint (C),-1
-Midwich,Trickster,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small Game (V),Camping Aid Kit (C),Needle & Thread (U),Butterfly Tape (C),Primrose Blossom Sachet (C),0
+Midwich Elementary School,Trickster,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Small Game (V),Camping Aid Kit (C),Needle & Thread (U),Butterfly Tape (C),Primrose Blossom Sachet (C),0
 Father Campbell's Chapel,Hag,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),We're Gonna Live Forever (V),Alex's Toolbox (V),Hacksaw (R),,Vigo's Jar of Salty Lips (V),0
 Lampkin Lane,Spirit,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Camping Aid Kit (C),Rubber Gloves (C),Sponge (U),Vigo's Jar of Salty Lips (V),1
 The Game,Nurse,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Camping Aid Kit (C),Rubber Gloves (C),Sponge (U),Vigo's Jar of Salty Lips (V),1
@@ -235,14 +235,14 @@ Eyrie of Crows,Onryo,3,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience 
 The Pale Rose,Spirit,3,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Toolbox (U),,,Crispleaf Amaranth Sachet (C),0
 Ironworks of Misery,Plague,1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Resilience (V),Toolbox (U),,,Crispleaf Amaranth Sachet (C),0
 Lampkin Lane,Pig,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (U),Engineer's Toolbox (V),,,Sweet William Sachet (C),1
-Badham I,Blight,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (U),Engineer's Toolbox (V),,,Sweet William Sachet (C),0
+Badham Preschool I,Blight,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (U),Engineer's Toolbox (V),,,Sweet William Sachet (C),0
 Disturbed Ward,Twins,-1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (U),Engineer's Toolbox (V),,,Charred Wedding Photograph (R),0
 Suffocation Pit,Legion,1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (R),,,,,0
 Wreckers Yard,Trapper,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (R),Toolbox (U),Clean Rag (C),Instructions (C),Vigo's Jar of Salty Lips (V),0
 Sanctum of Wrath,Ghostface,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (R),Toolbox (U),,,Crispleaf Amaranth Sachet (C),0
 Groaning Storehouse,Hag,1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (R),Camping Aid Kit (C),Gel Dressings (R),Bandages (C),Sweet William Sachet (C),0
 Disturbed Ward,Hillbilly,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),First Aid Kit (U),Abdominal Dressing (R),Bandages (C),Ivory Chalk Pouch (R),2
-Bad IV,Blight,3,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),First Aid Kit (U),Abdominal Dressing (R),Butterfly Tape (C),Vigo's Jar of Salty Lips (V),-1
+Badham Preschool IV,Blight,3,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),First Aid Kit (U),Abdominal Dressing (R),Butterfly Tape (C),Vigo's Jar of Salty Lips (V),-1
 Grim Pantry,Nemesis,4,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),First Aid Kit (U),,,,0
 Coal Tower,Shape,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),First Aid Kit (U),Needle & Thread (U),,,-1
 Family Residence,Shape,2,Y,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),Camping Aid Kit (C),,,,0
@@ -271,7 +271,7 @@ Garden of Joy,Pig,1,Y,Any Means Necessary (R),Iron Will (R),Dead Hard (R),Resili
 Ironworks of Misery,Ghostface,3,Y,Any Means Necessary (V),Spine Chill (R),Dead Hard (R),Resilience (V),First Aid Kit (U),Surgical Suture (R),Gauze Roll (U),Bloody Party Streamers (R),1
 Garden of Joy,Dredge,3,Y,Any Means Necessary (V),Spine Chill (V),Dead Hard (R),Resilience (V),First Aid Kit (U),Gel Dressings (R),Medical Scissors (U),Escape! Cake (U),1
 Garden of Joy,Nightmare,0,N,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),First Aid Kit (U),Bandages (C),Medical Scissors (U),Escape! Cake (U),-1
-Racoon City Police Dept,Nurse,4,Y,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),Mechanics Toolbox (R),Hacksaw (R),Cutting Wire (U),Shroud of Binding (V),1
+Raccoon City Police Station,Nurse,4,Y,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),Mechanics Toolbox (R),Hacksaw (R),Cutting Wire (U),Shroud of Binding (V),1
 Mount Ormond Resort,Twins,0,N,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),Mechanics Toolbox (R),Brand New Part (L),Socket Swivels (U),Shroud of Binding (V),-1
 Torment Creek,Nemesis,4,Y,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),Mechanics Toolbox (R),Hacksaw (R),Wire Spool (U),Escape! Cake (U),0
 Disturbed Ward,Trapper,3,Y,Any Means Necessary (V),Spine Chill (V),Dead Hard (V),Resilience (V),First Aid Kit (U),Bandages (C),Butterfly Tape (C),Sealed Envelope (U),1
@@ -286,7 +286,7 @@ Coal Tower,Spirit,0,N,Borrowed Time (V),Spine Chill (V),Dead Hard (V),Resilience
 Treatment Theatre,Plague,3,Y,Borrowed Time (V),Spine Chill (V),Iron Will (V),Resilience (V),Ranger Med-Kit (V),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),0
 Coal Tower,Oni,1,N,Borrowed Time (V),Spine Chill (V),Iron Will (V),Resilience (V),Ranger Med-Kit (V),Abdominal Dressing (R),Bandages (C),Petrified Oak (V),0
 Wreckers Yard,Spirit,3,Y,Borrowed Time (V),Spine Chill (V),Iron Will (V),Resilience (V),Toolbox (U),Hacksaw (R),Scraps (C),,1
-Badham I,Nemesis,1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),Emergency Med-Kit (R),,,,-1
+Badham Preschool I,Nemesis,1,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),Emergency Med-Kit (R),,,,-1
 Ironworks of Misery,Ghostface,0,N,Borrowed Time (V),Iron Will (V),Kindred (V),Decisive Strike (V),Emergency Med-Kit (R),,,,0
 Blood Lodge,Doctor,2,Y,Borrowed Time (V),Iron Will (V),Dead Hard (V),Decisive Strike (V),Camping Aid Kit (C),,,,0
 Wreckers Yard,Nemesis,0,N,Borrowed Time (V),Spine Chill (V),Resilience (V),We're Gonna Live Forever (V),Rainbow Map (L),Black Silk Cord (R),Odd Stamp (R),Fragrant Sweet William (R),0
@@ -323,15 +323,15 @@ Wreckers Yard,Legion,1,N,Borrowed Time (V),Bond (U),Kindred (V),We're Gonna Live
 Gas Heaven,Huntress,0,N,Borrowed Time (V),Bond (U),Kindred (V),We're Gonna Live Forever (V),First Aid Kit (U),,,,-1
 The Game,Cenobite,-1,N,Lithe (V),Spine Chill (V),Resilience (V),Iron Will (V),Flashlight (U),,,,0
 Mount Ormond Resort,Oni,2,N,Dead Hard (V),Decisive Strike (V),Resilience (V),Iron Will (V),Flashlight (U),,,,0
-Midwich,Huntress,1,Y,Any Means Necessary (V),Dead Hard (V),Resilience (V),Iron Will (V),First Aid Kit (U),,,,1
+Midwich Elementary School,Huntress,1,Y,Any Means Necessary (V),Dead Hard (V),Resilience (V),Iron Will (V),First Aid Kit (U),,,,1
 Ironworks of Misery,Huntress,0,N,Any Means Necessary (V),Dead Hard (V),Resilience (V),Iron Will (V),First Aid Kit (U),,,,0
 The Game,Oni,1,Y,Prove Thyself (V),Bond (V),Borrowed Time (V),Kindred (V),Emergency Med-Kit (R),,,Shroud of Union (U),1
-Racoon City Police Dept,Shape,4,Y,Prove Thyself (V),Bond (V),Borrowed Time (V),Kindred (V),Flashlight (U),,,Vigo's Shroud (U),1
+Raccoon City Police Station,Shape,4,Y,Prove Thyself (V),Bond (V),Borrowed Time (V),Kindred (V),Flashlight (U),,,Vigo's Shroud (U),1
 Mother's Dwelling,Plague,3,Y,Prove Thyself (V),Bond (V),Borrowed Time (V),Kindred (V),Flashlight (U),,,Vigo's Shroud (U),0
 Eyrie of Crows,Cannibal,2,Y,Dead Hard (V),Decisive Strike (V),Borrowed Time (V),Iron Will (V),First Aid Kit (U),,,Crow's Eye (R),2
 Wreckers Yard,Trapper,4,Y,Dead Hard (V),Decisive Strike (V),Borrowed Time (V),Iron Will (V),First Aid Kit (U),,,,1
 The Thompson House,Trickster,0,N,Dead Hard (V),Decisive Strike (V),Borrowed Time (V),Iron Will (V),First Aid Kit (U),,,,1
-Badham II,Trapper,4,Y,Dead Hard (V),Decisive Strike (V),Borrowed Time (V),Iron Will (V),First Aid Kit (U),,,,1
+Badham Preschool II,Trapper,4,Y,Dead Hard (V),Decisive Strike (V),Borrowed Time (V),Iron Will (V),First Aid Kit (U),,,,1
 The Thompson House,Ghostface,3,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),First Aid Kit (U),,,,0
 Family Residence,Huntress,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),First Aid Kit (U),,,,1
 Wreckers Yard,Legion,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),First Aid Kit (U),,,,0
@@ -343,25 +343,25 @@ Wreckers Yard,Pig,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Sabote
 The Pale Rose,Pig,2,Y,Prove Thyself (V),Bond (V),Borrowed Time (V),Kindred (V),Flashlight (U),,,Vigo's Shroud (U),2
 Wreckers Yard,Oni,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Saboteur (V),Flashlight (U),,,,1
 Mount Ormond Resort,Hillbilly,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Saboteur (V),Camping Aid Kit (C),,,,1
-Badham V,Onryo,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),,,,2
+Badham Preschool V,Onryo,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),,,,2
 Mount Ormond Resort,Executioner,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),,,,2
 Gas Heaven,Huntress,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),Self Adherent Wrap (U),Bloody Party Streamers (R),1
 Ironworks of Misery,Dredge,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),,1
 Temple of Purgation,Cannibal,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),,,1
-Badham I,Nightmare,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),,,1
+Badham Preschool I,Nightmare,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),,,1
 Father Campbell's Chapel,Blight,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),,,1
-Midwich,Dredge,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),Medical Scissors (U),Bloody Party Streamers (R),2
+Midwich Elementary School,Dredge,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),Gel Dressings (R),Medical Scissors (U),Bloody Party Streamers (R),2
 Dead Dawg Saloon,Executioner,2,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Alex's Toolbox (V),Wire Spool (U),Hacksaw (R),White Ward (V),0
 Gas Heaven,Executioner,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Alex's Toolbox (V),Wire Spool (U),Hacksaw (R),White Ward (V),0
-Midwich,Trickster,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Alex's Toolbox (V),Wire Spool (U),Hacksaw (R),,0
+Midwich Elementary School,Trickster,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Alex's Toolbox (V),Wire Spool (U),Hacksaw (R),,0
 Ironworks of Misery,Huntress,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),,,,1
 Treatment Theatre,Wraith,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Camping Aid Kit (C),,,,0
 Coal Tower,Shape,1,Y,Breakout (V),Saboteur (V),Dead Hard (V),Resilience (V),Camping Aid Kit (C),,,Frightful Flan (E),0
 Rancid Abattoir,Spirit,0,N,Breakout (V),Saboteur (V),Dead Hard (V),Resilience (V),Camping Aid Kit (C),,,Frightful Flan (E),0
 Grim Pantry,Spirit,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),,,Frightful Flan (E),0
 Sanctum of Wrath,Legion,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Gel Dressings (R),,Frightful Flan (E),0
-Racoon City Police Dept,Wraith,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Surgical Suture (R),Medical Scissors (U),RPD Badge (R),0
-Racoon City Police Dept,Ghostface,3,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),First Aid Kit (U),,,Frightful Flan (E),1
+Raccoon City Police Station,Wraith,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Surgical Suture (R),Medical Scissors (U),RPD Badge (R),0
+Raccoon City Police Station,Ghostface,3,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),First Aid Kit (U),,,Frightful Flan (E),1
 Blood Lodge,Spirit,1,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Frightful Flan (E),2
 Mount Ormond Resort,Spirit,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Frightful Flan (E),0
 Rotten Fields,Legion,1,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Frightful Flan (E),1
@@ -372,12 +372,12 @@ Eyrie of Crows,Demogorgon,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V
 Fractured Cowshed,Wraith,1,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),Self Adherent Wrap (U),,Frightful Flan (E),1
 Rotten Fields,Nurse,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Gauze Roll (U),Bandages (C),Frightful Flan (E),1
 Ironworks of Misery,Dredge,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Needle & Thread (U),Bandages (C),Frightful Flan (E),0
-Badham I,Nemesis,3,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Needle & Thread (U),Bandages (C),Frightful Flan (E),0
+Badham Preschool I,Nemesis,3,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Ranger Med-Kit (V),Needle & Thread (U),Bandages (C),Frightful Flan (E),0
 Treatment Theatre,Doctor,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Emergency Med-Kit (R),,,Frightful Flan (E),1
-Badham V,Wraith,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Commodious Toolbox (R),,,Frightful Flan (E),0
+Badham Preschool V,Wraith,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Commodious Toolbox (R),,,Frightful Flan (E),0
 Sanctum of Wrath,Dredge,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Garden of Joy,Huntress,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
-Racoon City Police Dept,Huntress,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
+Raccoon City Police Station,Huntress,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Grim Pantry,Clown,2,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Eyrie of Crows,Dredge,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Mount Ormond Resort,Hillbilly,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),We're Gonna Live Forever (V),Masquerade Med-Kit (E),,,Frightful Flan (E),2
@@ -421,9 +421,9 @@ Gas Heaven,Plague,3,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Window
 Disturbed Ward,Cannibal,1,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Windows of Opportunity (V),First Aid Kit (U),,,Frightful Flan (E),0
 Wreckers Yard,Cannibal,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),,,Frightful Flan (E),0
 Family Residence,Oni,2,Y,Spine Chill (V),Resilience (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),,,Frightful Flan (E),2
-Midwich,Blight,0,N,Spine Chill (V),Resilience (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),,,Frightful Flan (E),-1
-Midwich,Legion,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),,,Frightful Flan (E),1
-Midwich,Dredge,4,Y,Open-Handed (V),Bond (V),Kindred (V),Autodidact (V),First Aid Kit (U),,,Frightful Flan (E),1
+Midwich Elementary School,Blight,0,N,Spine Chill (V),Resilience (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),,,Frightful Flan (E),-1
+Midwich Elementary School,Legion,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),,,Frightful Flan (E),1
+Midwich Elementary School,Dredge,4,Y,Open-Handed (V),Bond (V),Kindred (V),Autodidact (V),First Aid Kit (U),,,Frightful Flan (E),1
 Suffocation Pit,Nemesis,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Autodidact (V),First Aid Kit (U),,,Frightful Flan (E),0
 Disturbed Ward,Clown,2,Y,Open-Handed (V),Bond (V),Kindred (V),Autodidact (V),First Aid Kit (U),,,Frightful Flan (E),1
 The Game,Demogorgon,0,N,Open-Handed (V),Bond (V),Kindred (V),Autodidact (V),First Aid Kit (U),,,Frightful Flan (E),-1
@@ -431,7 +431,7 @@ Family Residence,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Autodidact (V),
 Family Residence,Nurse,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Autodidact (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Temple of Purgation,Huntress,0,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Autodidact (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Mount Ormond Resort,Nightmare,1,N,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Windows of Opportunity (V),First Aid Kit (U),,,Frightful Flan (E),0
-Racoon City Police Dept,Dredge,4,Y,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
+Raccoon City Police Station,Dredge,4,Y,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Rotten Fields,Clown,4,Y,Borrowed Time (V),Dead Hard (V),Decisive Strike (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Wretched Shop,Blight,0,N,Object of Obsession (V),Resilience (V),Lithe (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 The Pale Rose,Huntress,0,N,Object of Obsession (V),Resilience (V),Dead Hard (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
@@ -443,21 +443,21 @@ Grim Pantry,Spirit,4,Y,Prove Thyself (V),Dead Hard (V),Decisive Strike (V),Windo
 The Pale Rose,Legion,4,Y,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 The Thompson House,Ghostface,0,N,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Groaning Storehouse,Spirit,3,Y,Object of Obsession (V),Resilience (V),Dead Hard (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),2
-Midwich,Huntress,1,Y,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
+Midwich Elementary School,Huntress,1,Y,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Suffocation Pit,Ghostface,3,N,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Grim Pantry,Blight,2,N,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Treatment Theatre,Twins,3,Y,Prove Thyself (V),Dead Hard (V),Borrowed Time (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
-Midwich,Trickster,4,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
+Midwich Elementary School,Trickster,4,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
 Grim Pantry,Dredge,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),1
 Sanctum of Wrath,Artist,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),0
-Badham IV,Spirit,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),-1
+Badham Preschool IV,Spirit,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),-1
 Grim Pantry,Legion,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Masquerade Med-Kit (E),,,Frightful Flan (E),-1
 Lampkin Lane,Ghostface,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Escape! Cake (U),-1
 Treatment Theatre,Legion,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),
 The Thompson House,Executioner,1,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),1
 Eyrie of Crows,Nemesis,1,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),1
 Blood Lodge,Nurse,4,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),2
-Badham IV,Hillbilly,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),0
+Badham Preschool IV,Hillbilly,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),First Aid Kit (U),,,Shroud of Binding (V),0
 Temple of Purgation,Cenobite,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Emergency Med-Kit (R),,,Frightful Flan (E),0
 Ironworks of Misery,Deathslinger,2,Y,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Emergency Med-Kit (R),,,Bloody Party Streamers (R),1
 Mount Ormond Resort,Ghostface,0,N,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Emergency Med-Kit (R),,,Bloody Party Streamers (R),1
@@ -465,7 +465,7 @@ Family Residence,Hag,4,Y,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),
 Eyrie of Crows,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Broken Key (R),Blood Amber (V),Prayer Beads (U),Fragrant Crispleaf Amaranth (R),0
 Father Campbell's Chapel,Executioner,4,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Emergency Med-Kit (R),,,Escape! Cake (U),1
 The Game,Cannibal,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Emergency Med-Kit (R),,,Escape! Cake (U),-1
-Badham V,Nemesis,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Engineer's Toolbox (V),Wire Spool (U),Socket Swivels (U),Escape! Cake (U),0
+Badham Preschool V,Nemesis,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Engineer's Toolbox (V),Wire Spool (U),Socket Swivels (U),Escape! Cake (U),0
 Treatment Theatre,Blight,3,Y,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Ranger Med-Kit (V),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1
 Lampkin Lane,Hag,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Camping Aid Kit (C),Gel Dressings (R),Gauze Roll (U),Shroud of Binding (V),-1
 Wretched Shop,Nightmare,0,N,Lithe (V),Borrowed Time (V),Prove Thyself (V),Bond (V),Camping Aid Kit (C),Gel Dressings (R),Gauze Roll (U),Sealed Envelope (U),0
@@ -480,14 +480,14 @@ Grim Pantry,Wraith,0,N,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Ca
 Family Residence,Blight,4,Y,Balanced Landing (V),Borrowed Time (V),We're Gonna Live Forever (V),Decisive Strike (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),1
 Father Campbell's Chapel,Legion,3,Y,Balanced Landing (V),Borrowed Time (V),We're Gonna Live Forever (V),Saboteur (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),1
 Garden of Joy,Onryo,0,N,Balanced Landing (V),Borrowed Time (V),We're Gonna Live Forever (V),Saboteur (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Sealed Envelope (U),0
-Badham I,Nurse,3,Y,Balanced Landing (V),Borrowed Time (V),We're Gonna Live Forever (V),Saboteur (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Sealed Envelope (U),1
+Badham Preschool I,Nurse,3,Y,Balanced Landing (V),Borrowed Time (V),We're Gonna Live Forever (V),Saboteur (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Sealed Envelope (U),1
 Mount Ormond Resort,Nurse,1,N,Open-Handed (V),Bond (V),Kindred (V),Borrowed Time (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Petrified Oak (V),1
 The Thompson House,Blight,0,N,Lithe (V),Borrowed Time (V),No One Left Behind (V),Hope (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Petrified Oak (V),1
 Dead Dawg Saloon,Ghostface,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lightweight (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Petrified Oak (V),1
 Eyrie of Crows,Spirit,0,N,Open-Handed (V),Bond (V),Kindred (V),Lightweight (V),Camping Aid Kit (C),Self Adherent Wrap (U),Surgical Suture (R),Petrified Oak (V),0
 Shelter Woods,Shape,1,N,Lithe (V),Small Game (V),Prove Thyself (V),Sole Survivor (V),Camping Aid Kit (C),Medical Scissors (U),Surgical Suture (R),Petrified Oak (V),0
-Racoon City Police Dept,Oni,3,Y,Lithe (V),Small Game (V),Prove Thyself (V),Sole Survivor (V),Emergency Med-Kit (R),Bandages (C),Medical Scissors (U),Escape! Cake (U),1
-Midwich,Trickster,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Sole Survivor (V),Flashlight (U),,,Escape! Cake (U),1
+Raccoon City Police Station,Oni,3,Y,Lithe (V),Small Game (V),Prove Thyself (V),Sole Survivor (V),Emergency Med-Kit (R),Bandages (C),Medical Scissors (U),Escape! Cake (U),1
+Midwich Elementary School,Trickster,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Sole Survivor (V),Flashlight (U),,,Escape! Cake (U),1
 Suffocation Pit,Deathslinger,0,N,Object of Obsession (V),Resilience (V),Lithe (V),Windows of Opportunity (V),Camping Aid Kit (C),Bandages (C),Butterfly Tape (C),Fragrant Sweet William (R),1
 Lampkin Lane,Legion,2,Y,Lithe (V),Decisive Strike (V),Hope (V),Sole Survivor (V),Camping Aid Kit (C),Bandages (C),Butterfly Tape (C),Fragrant Sweet William (R),2
 Wretched Shop,Doctor,0,N,Lithe (V),Decisive Strike (V),Hope (V),Resilience (V),Camping Aid Kit (C),Bandages (C),Butterfly Tape (C),Fragrant Sweet William (R),0
@@ -535,7 +535,7 @@ Father Campbell's Chapel,Legion,0,N,Lithe (V),Resilience (V),Prove Thyself (V),W
 Shelter Woods,Legion,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Petrified Oak (V),2
 Dead Dawg Saloon,Doctor,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Petrified Oak (V),1
 Garden of Joy,Spirit,3,Y,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),0
-Badham II,Trickster,4,Y,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),1
+Badham Preschool II,Trickster,4,Y,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),1
 Sanctum of Wrath,Blight,2,Y,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),1
 Mount Ormond Resort,Nurse,1,N,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),1
 Treatment Theatre,Nemesis,3,Y,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Socket Swivels (U),Vigo's Shroud (U),1
@@ -544,16 +544,16 @@ Dead Dawg Saloon,Ghostface,1,N,Lithe (V),Lucky Break (V),Prove Thyself (V),Windo
 The Pale Rose,Doctor,0,N,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Scraps (C),Vigo's Shroud (U),1
 Dead Dawg Saloon,Trapper,1,N,Object of Obsession (V),Resilience (V),Lightweight (V),Windows of Opportunity (V),Flashlight (U),,,,1
 The Thompson House,Wraith,?,N,Dead Hard (V),Resilience (V),Lightweight (V),Windows of Opportunity (V),Flashlight (U),,,,1
-Midwich,Ghostface,0,N,Dead Hard (V),Resilience (V),Lightweight (V),Windows of Opportunity (V),Sport Flashlight (R),Heavy Duty Battery (R),Long-Life Battery (U),,0
+Midwich Elementary School,Ghostface,0,N,Dead Hard (V),Resilience (V),Lightweight (V),Windows of Opportunity (V),Sport Flashlight (R),Heavy Duty Battery (R),Long-Life Battery (U),,0
 Treatment Theatre,Spirit,3,N,Lithe (V),Lucky Break (V),Prove Thyself (V),Windows of Opportunity (V),Commodious Toolbox (R),Clean Rag (C),Scraps (C),Vigo's Shroud (U),1
 The Thompson House,Shape,4,Y,Lithe (V),Resilience (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Vigo's Shroud (U),1
-Midwich,Huntress,?,N,Lithe (V),Resilience (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Vigo's Shroud (U),-1
+Midwich Elementary School,Huntress,?,N,Lithe (V),Resilience (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Vigo's Shroud (U),-1
 Shelter Woods,Nightmare,4,Y,Lithe (V),Deja Vu (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Vigo's Shroud (U),1
 Eyrie of Crows,Huntress,0,N,Lithe (V),Inner Healing (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Fresh Crispleaf Amaranth (U),1
 Fractured Cowshed,Legion,1,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Fresh Crispleaf Amaranth (U),1
 The Game,Nemesis,0,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),,Fresh Primrose Blossom (U),0
 Dead Dawg Saloon,Cannibal,3,Y,Lithe (V),Resilience (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Vigo's Jar of Salty Lips (V),1
-Racoon City Police Dept,Nemesis,0,N,Lithe (V),Boon: Exponential (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Vigo's Jar of Salty Lips (V),-1
+Raccoon City Police Station,Nemesis,0,N,Lithe (V),Boon: Exponential (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Vigo's Jar of Salty Lips (V),-1
 The Game,Nightmare,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Med-Kit (E),,,Vigo's Jar of Salty Lips (V),0
 Rancid Abattoir,Nemesis,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),,Vigo's Jar of Salty Lips (V),1
 Coal Tower,Dredge,0,N,Lithe (V),Saboteur (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),,Fresh Sweet Wiliam (U),1
@@ -565,13 +565,13 @@ Lampkin Lane,Dredge,0,N,Balanced Landing (V),Resilience (V),Lightweight (V),Wind
 Eyrie of Crows,Dredge,1,N,Open-Handed (V),Bond (V),Kindred (V),Prove Thyself (V),Camping Aid Kit (C),,Surgical Suture (R),,1
 Family Residence,Huntress,1,Y,Lithe (V),Breakdown (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),,Fresh Sweet Wiliam (U),2
 Mount Ormond Resort,Hillbilly,0,N,Lithe (V),Breakdown (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Wire Spool (U),Fresh Crispleaf Amaranth (U),0
-Bad 1,Nemesis,0,N,Lithe (V),Breakdown (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Clean Rag (C),Fresh Crispleaf Amaranth (U),1
+Badham Preschool I,Nemesis,0,N,Lithe (V),Breakdown (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Clean Rag (C),Fresh Crispleaf Amaranth (U),1
 Gas Heaven,Doctor,-1,DC,Open-Handed (V),Bond (V),Kindred (V),Repressed Alliance (V),Camping Aid Kit (C),,,,1
 Mother's Dwelling,Pig,0,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Clean Rag (C),Fresh Crispleaf Amaranth (U),1
 Eyrie of Crows,Huntress,1,Y,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Clean Rag (C),Fresh Crispleaf Amaranth (U),1
 Father Campbell's Chapel,Wraith,1,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Scraps (C),Clean Rag (C),Fresh Crispleaf Amaranth (U),1
 Family Residence,Doctor,2,Y,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Emergency Med-Kit (R),Bandages (C),,Fresh Crispleaf Amaranth (U),1
-Bad III,Huntress,2,Y,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Emergency Med-Kit (R),,,Fresh Crispleaf Amaranth (U),1
+Badham Preschool III,Huntress,2,Y,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Emergency Med-Kit (R),,,Fresh Crispleaf Amaranth (U),1
 Shelter Woods,Shape,2,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),Emergency Med-Kit (R),,,Fresh Crispleaf Amaranth (U),0
 The Game,Doctor,1,N,Lithe (V),Aftercare (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Fresh Crispleaf Amaranth (U),1
 Treatment Theatre,Shape,1,Y,Lithe (V),Wake Up! (V),Prove Thyself (V),Windows of Opportunity (V),First Aid Kit (U),,,Fresh Crispleaf Amaranth (U),1
@@ -589,12 +589,12 @@ Temple of Purgation,Huntress,0,N,Distortion (V),Wake Up! (V),Lithe (V),Inner Hea
 Mother's Dwelling,Trapper,0,N,Distortion (V),Wake Up! (V),Lithe (V),Deliverance (V),Toolbox (U),,,Escape! Cake (U),-1
 Garden of Joy,Blight,1,N,Distortion (V),Wake Up! (V),Lithe (V),Deliverance (V),Toolbox (U),,,Fresh Sweet Wiliam (U),0
 Sanctum of Wrath,Shape,0,N,Distortion (V),Wake Up! (V),Lithe (V),Deliverance (V),Toolbox (U),,,Fresh Sweet Wiliam (U),1
-RPD East,Huntress,0,N,Distortion (V),Wake Up! (V),Lithe (V),Deliverance (V),Toolbox (U),,,Fresh Sweet Wiliam (U),-1
+Raccoon City Police Station,Huntress,0,N,Distortion (V),Wake Up! (V),Lithe (V),Deliverance (V),Toolbox (U),,,Fresh Sweet Wiliam (U),-1
 Ironworks of Misery,Ghostface,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Windows of Opportunity (V),Camping Aid Kit (C),,,,
-RPD,Nurse,4,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),1
-RPD,Executioner,4,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),0
-RPD,Nurse,3,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),1
-RPD,Nightmare,0,N,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Toolkit (E),Brand New Part (L),Swivel Sockets (U),RPD Badge (R),0
+Raccoon City Police Station,Nurse,4,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),1
+Raccoon City Police Station,Executioner,4,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),0
+Raccoon City Police Station,Nurse,3,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Toolbox (U),Brand New Part (L),Scraps (C),RPD Badge (R),1
+Raccoon City Police Station,Nightmare,0,N,Lithe (V),Deliverance (V),Prove Thyself (V),Windows of Opportunity (V),Masquerade Toolkit (E),Brand New Part (L),Swivel Sockets (U),RPD Badge (R),0
 The Pale Rose,Mastermind,3,Y,Lithe (V),Deliverance (V),Prove Thyself (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),,Fresh Primrose Blossom (U),0
 Suffocation Pit,Mastermind,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),,Fresh Sweet Wiliam (U),1
 Mother's Dwelling,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),0
@@ -604,68 +604,68 @@ Coal Tower,Mastermind,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance
 The Game,Mastermind,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Fresh Crispleaf Amaranth (U),1
 Eyrie of Crows,Artist,3,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Fresh Primrose Blossom (U),1
 Fractured Cowshed,Mastermind,3,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Sealed Envelope (U),1
-RPD East Wing,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Fresh Primrose Blossom (U),0
-Badham V,Mastermind,3,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),0
+Raccoon City Police Station East Wing,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Fresh Primrose Blossom (U),0
+Badham Preschool V,Mastermind,3,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),0
 The Game,Huntress,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
 Wreckers Yard,Ghostface,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),Gel Dressings (R),Surgical Suture (R),Annotated Blueprint (C),1
-RPD East Wing,Mastermind,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),Gel Dressings (R),Abdominal Dressing (R),Annotated Blueprint (C),1
-Midwich,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),,,Annotated Blueprint (C),-1
-RPD West Wing,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),,,Annotated Blueprint (C),-1
-RPD East Wing,Mastermind,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
-RPD East Wing,Mastermind,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
+Raccoon City Police Station East Wing,Mastermind,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),Gel Dressings (R),Abdominal Dressing (R),Annotated Blueprint (C),1
+Midwich Elementary School,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),,,Annotated Blueprint (C),-1
+Raccoon City Police Station West Wing,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Ranger Med-Kit (V),,,Annotated Blueprint (C),-1
+Raccoon City Police Station East Wing,Mastermind,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
+Raccoon City Police Station East Wing,Mastermind,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
 Treatment Theatre,Executioner,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
 Father Campbell's Chapel,Cenobite,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
-RPD West Wing,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Toolbox (U),,,Annotated Blueprint (C),1
-Bad I,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Toolbox (U),,,Bog Laurel Sachet (C),1
+Raccoon City Police Station West Wing,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Toolbox (U),,,Annotated Blueprint (C),1
+Badham Preschool I,Mastermind,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Toolbox (U),,,Bog Laurel Sachet (C),1
 Rotten Fields,Mastermind,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Reassurance (V),Toolbox (U),,,Bog Laurel Sachet (C),0
-Midwich,Cenobite,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Wire Spool (U),Scraps (C),Bog Laurel Sachet (C),1
+Midwich Elementary School,Cenobite,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Wire Spool (U),Scraps (C),Bog Laurel Sachet (C),1
 Torment Creek,Huntress,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Scraps (C),Bog Laurel Sachet (C),-1
 The Thompson House,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Scraps (C),Bog Laurel Sachet (C),0
 Disturbed Ward,Trickster,0,N,Reassurance (V),Borrowed Time (V),We're Gonna Live Forever (V),We'll Make It (V),Ranger Med-Kit (V),,,Petrified Oak (V),0
-Bad IV,Demogorgon,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Scraps (C),Bog Laurel Sachet (C),0
+Badham Preschool IV,Demogorgon,4,Y,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Scraps (C),Bog Laurel Sachet (C),0
 The Pale Rose,Deathslinger,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Scraps (C),Bog Laurel Sachet (C),1
-RPD East,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Deliverance (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
+Raccoon City Police Station East Wing,Mastermind,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Deliverance (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
 Azarov's Resting Place,Demogorgon,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Deliverance (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),0
 Groaning Storehouse,Spirit,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Deliverance (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),0
-RPD West Wing,Mastermind,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),2
+Raccoon City Police Station West Wing,Mastermind,1,Y,Lithe (V),Distortion (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),2
 Sanctum of Wrath,Nightmare,0,N,Lithe (V),Distortion (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
 Dead Dawg Saloon,Nemesis,2,N,Lithe (V),Distortion (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
 Ironworks of Misery,Nightmare,1,N,Lithe (V),Distortion (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),0
-Midwich,Mastermind,-1,DC,Lithe (V),Lightweight (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),0
-RPD East Wing,Cenobite,1,N,Lithe (V),Lightweight (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
+Midwich Elementary School,Mastermind,-1,DC,Lithe (V),Lightweight (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),0
+Raccoon City Police Station East Wing,Cenobite,1,N,Lithe (V),Lightweight (V),Prove Thyself (V),Kindred (V),Toolbox (U),,Scraps (C),Bog Laurel Sachet (C),1
 Eyrie of Crows,Nurse,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Vigo's Shroud (U),1
 Family Residence,Mastermind,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Vigo's Shroud (U),2
 Blood Lodge,Mastermind,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Vigo's Shroud (U),1
 Eyrie of Crows,Deathslinger,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Escape! Cake (U),1
-Midwich,Cenobite,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,,2
+Midwich Elementary School,Cenobite,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,,2
 Treatment Theatre,Executioner,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Fresh Bog Laurel (U),1
 Eyrie of Crows,Doctor,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Fresh Bog Laurel (U),0
-RPD West Wing,Hillbilly,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Fresh Bog Laurel (U),1
-Midwich,Deathslinger,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Annotated Blueprint (C),1
+Raccoon City Police Station West Wing,Hillbilly,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Fresh Bog Laurel (U),1
+Midwich Elementary School,Deathslinger,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Annotated Blueprint (C),1
 Rancid Abattoir,Legion,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Annotated Blueprint (C),2
 Groaning Storehouse,Blight,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Annotated Blueprint (C),1
 Eyrie of Crows,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Annotated Blueprint (C),1
 Gas Heaven,Mastermind,2,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),0
 Family Residence,Demogorgon,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),-1
-RPD East Wing,Twins,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),-1
-Midwich,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),2
+Raccoon City Police Station East Wing,Twins,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),-1
+Midwich Elementary School,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),2
 Family Residence,Cenobite,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
 Mother's Dwelling,Nemesis,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
-RPD West Wing,Blight,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
+Raccoon City Police Station West Wing,Blight,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
 Dead Dawg Saloon,Artist,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),2
 Treatment Theatre,Huntress,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
 Mother's Dwelling,Legion,1,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
-Midwich,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),0
+Midwich Elementary School,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),0
 Grim Pantry,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),0
-RPD East Wing,Twins,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
+Raccoon City Police Station East Wing,Twins,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bog Laurel Sachet (C),1
 Suffocation Pit,Dredge,1,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Escape! Cake (U),-1
 Lampkin Lane,Blight,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,Escape! Cake (U),1
 Treatment Theatre,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,Escape! Cake (U),0
-RPD West Wing,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,Sealed Envelope (U),
+Raccoon City Police Station West Wing,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,Sealed Envelope (U),
 Garden of Joy,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,Fragrant Primrose Blossom (R),1
 Dead Dawg Saloon,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Fragrant Primrose Blossom (R),0
 The Game,Nurse,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Ranger Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
-Midwich,Cenobite,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Ranger Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Bound Envelope (R),1
+Midwich Elementary School,Cenobite,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Ranger Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Bound Envelope (R),1
 Mount Ormond Resort,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Ranger Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
 Azarov's Resting Place,Oni,3,Y,Open-Handed (V),Bond (V),Kindred (V),Saboteur (V),Toolbox (U),Hacksaw (R),Protective Gloves (U),Annotated Blueprint (C),0
 Garden of Joy,Spirit,2,Y,Open-Handed (V),Bond (V),Kindred (V),Saboteur (V),Toolbox (U),Hacksaw (R),Protective Gloves (U),Annotated Blueprint (C),1
@@ -676,27 +676,27 @@ Lampkin Lane,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Hyperfocus (V),
 Wreckers Yard,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,?,0
 Wreckers Yard,Nemesis,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,?,0
 Family Residence,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),,,?,-1
-Badham I,Cenobite,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,?,1
-Badham I,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,?,1
+Badham Preschool I,Cenobite,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,?,1
+Badham Preschool I,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,?,1
 Family Residence,Hag,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Sealed Envelope (U),0
 Rancid Abattoir,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Sealed Envelope (U),0
-Badham II,Cannibal,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Bloody Party Streamers (R),0
+Badham Preschool II,Cannibal,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Bloody Party Streamers (R),0
 Rotten Fields,Mastermind,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Escape! Cake (U),1
 The Game,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Escape! Cake (U),1
-Badham III,Nemesis,3,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Escape! Cake (U),0
+Badham Preschool III,Nemesis,3,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Escape! Cake (U),0
 Grim Pantry,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Hyperfocus (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Escape! Cake (U),0
 Suffocation Pit,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Lucky Break (V),Camping Aid Kit (C),,,Escape! Cake (U),0
 Mother's Dwelling,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Fractured Cowshed,Mastermind,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),,,Escape! Cake (U),1
 Blood Lodge,Shape,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Bound Envelope (R),1
 The Pale Rose,Executioner,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Bound Envelope (R),1
-Badham IV,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Bound Envelope (R),1
+Badham Preschool IV,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Bound Envelope (R),1
 Family Residence,Nightmare,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),1
 Lampkin Lane,Huntress,3,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Lampkin Lane,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Sanctum of Wrath,Mastermind,3,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),1
-RPD East,Hag,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),1
-RPD West Wing,Dredge,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),1
+Raccoon City Police Station East Wing,Hag,4,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),1
+Raccoon City Police Station West Wing,Dredge,2,Y,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),1
 Ironworks of Misery,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),First Aid Kit (U),Gel Dressings (R),,Annotated Blueprint (C),0
 Wretched Shop,Ghostface,1,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Annotated Blueprint (C),0
 Eyrie of Crows,Blight,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Bloody Party Streamers (R),1
@@ -704,22 +704,22 @@ Dead Dawg Saloon,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion 
 Treatment Theatre,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Bloody Party Streamers (R),1
 Treatment Theatre,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Deliverance (V),Camping Aid Kit (C),,,Fragrant Bog Laurel (R),0
 Garden of Joy,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Lithe (V),Camping Aid Kit (C),,,Fragrant Bog Laurel (R),0
-Badham I,Hag,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,,1
-RPD West Wing,Huntress,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fragrant Crispleaf Amaranth (R),1
+Badham Preschool I,Hag,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,,1
+Raccoon City Police Station West Wing,Huntress,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fragrant Crispleaf Amaranth (R),1
 The Game,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Camping Aid Kit (C),,,Bloody Party Streamers (R),0
 The Game,Cannibal,0,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Camping Aid Kit (C),,,Fragrant Crispleaf Amaranth (R),1
 Rancid Abattoir,Trapper,0,N,Open-Handed (V),Bond (V),Kindred (V),We'll Make It (V),Camping Aid Kit (C),,,,1
 Fractured Cowshed,Shape,1,N,Reassurance (V),Borrowed Time (V),Kindred (V),We'll Make It (V),First Aid Kit (U),Gel Dressings (R),Self Adherant Wrap (U),Fragrant Primrose Blossom (R),0
 Garden of Joy,Wraith,4,Y,Open-Handed (V),Bond (V),Kindred (V),We'll Make It (V),Camping Aid Kit (C),,,Fragrant Primrose Blossom (R),1
 Rancid Abattoir,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),We'll Make It (V),Camping Aid Kit (C),,,Fragrant Primrose Blossom (R),0
-Badham IV,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,,0
+Badham Preschool IV,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,,0
 Suffocation Pit,Cannibal,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,,0
 Rotten Fields,Ghostface,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Escape! Cake (U),1
 Dead Dawg Saloon,Demogorgon,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Escape! Cake (U),1
-Midwich,Deathslinger,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Escape! Cake (U),1
+Midwich Elementary School,Deathslinger,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Escape! Cake (U),1
 Treatment Theatre,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Escape! Cake (U),1
 Temple of Purgation,Mastermind,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),2
-Midwich,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),0
+Midwich Elementary School,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),0
 The Thompson House,Trapper,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),-1
 Lampkin Lane,Nemesis,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),1
 Wreckers Yard,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Flashlight (U),,,Sealed Envelope (U),1
@@ -737,31 +737,31 @@ Lampkin Lane,Cenobite,0,N,Reassurance (V),Borrowed Time (V),Kindred (V),We'll Ma
 Rotten Fields,Onryo,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Bloody Party Streamers (R),0
 Treatment Theatre,Legion,?,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Primrose Blossom (U),-1
 Mother's Dwelling,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Primrose Blossom (U),1
-RPD West Wing,Trapper,2,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Primrose Blossom (U),1
-RPD West Wing,Trapper,?,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),-1
+Raccoon City Police Station West Wing,Trapper,2,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Primrose Blossom (U),1
+Raccoon City Police Station West Wing,Trapper,?,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),-1
 Wretched Shop,Ghostface,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
 Eyrie of Crows,Artist,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Dead Dawg Saloon,Onryo,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Torment Creek,Plague,2,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Escape! Cake (U),0
 Lampkin Lane,Onryo,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,,0
-RPD West Wing,Nurse,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
+Raccoon City Police Station West Wing,Nurse,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Dead Dawg Saloon,Deathslinger,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 The Game,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Gas Heaven,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Torment Creek,Wraith,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
-Midwich,Cannibal,1,N,Open-Handed (V),Bond (V),Kindred (V),Prove Thyself (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
-Midwich,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),First Aid Kit (U),,,Escape! Cake (U),0
+Midwich Elementary School,Cannibal,1,N,Open-Handed (V),Bond (V),Kindred (V),Prove Thyself (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
+Midwich Elementary School,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),First Aid Kit (U),,,Escape! Cake (U),0
 Disturbed Ward,Dredge,3,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),First Aid Kit (U),,,Escape! Cake (U),1
 Shelter Woods,Cenobite,2,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),First Aid Kit (U),,,,0
 Mother's Dwelling,Blight,2,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Annotated Blueprint (C),0
 Gas Heaven,Trapper,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
-RPD West Wing,Nemesis,?,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Camping Aid Kit (C),,,,-1
+Raccoon City Police Station West Wing,Nemesis,?,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Camping Aid Kit (C),,,,-1
 Mount Ormond Resort,Trapper,1,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Torn Blueprint (C),1
-Midwich,Twins,2,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Emergency Med-Kit (R),,,Escape! Cake (U),2
+Midwich Elementary School,Twins,2,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Emergency Med-Kit (R),,,Escape! Cake (U),2
 Gas Heaven,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Emergency Med-Kit (R),,,Escape! Cake (U),-1
 Treatment Theatre,Dredge,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),First Aid Kit (U),,,Bound Envelope (R),1
-RPD East,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Sealed Envelope (U),1
-Bad II,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),0
+Raccoon City Police Station East Wing,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Sealed Envelope (U),1
+Badham Preschool II,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),0
 Treatment Theatre,Trickster,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Vigo's Jar of Salty Lips (V),0
 Coal Tower,Mastermind,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Vigo's Jar of Salty Lips (V),1
 Shelter Woods,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fragrant Bog Laurel (R),0
@@ -771,19 +771,19 @@ Rancid Abattoir,Executioner,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion 
 The Game,Artist,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),1
 Grim Pantry,Shape,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),2
 Rotten Fields,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Balanced Landing (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),-1
-RPD West Wing,Cenobite,0,N,Open-Handed (V),Bond (V),Kindred (V),Balanced Landing (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),-1
+Raccoon City Police Station West Wing,Cenobite,0,N,Open-Handed (V),Bond (V),Kindred (V),Balanced Landing (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),-1
 Family Residence,Spirit,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),0
 Garden of Joy,Ghostface,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),1
 Mount Ormond Resort,Wraith,0,N,Open-Handed (V),Bond (V),Kindred (V),Sprint Burst (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),0
-RPD East,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Sprint Burst (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),1
+Raccoon City Police Station East Wing,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Sprint Burst (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),1
 Coal Tower,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Adrenaline (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),-1
-Badham V,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),1
-RPD,Doctor,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Self Adherant Wrap (U),Annotated Blueprint (C),1
+Badham Preschool V,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Fresh Sweet Wiliam (U),1
+Raccoon City Police Station East Wing,Doctor,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Self Adherant Wrap (U),Annotated Blueprint (C),1
 Lampkin Lane,Shape,3,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Self Adherant Wrap (U),Annotated Blueprint (C),1
 Ironworks of Misery,Onryo,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),,,,,-1
 Garden of Joy,Cenobite,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
 Shelter Woods,Nemesis,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Sealed Envelope (U),1
-Midwich,Trickster,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Sealed Envelope (U),0
+Midwich Elementary School,Trickster,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),,,Sealed Envelope (U),0
 Mount Ormond Resort,Oni,2,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Sealed Envelope (U),1
 Treatment Theatre,Onryo,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),1
 Mother's Dwelling,Trickster,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),0
@@ -794,20 +794,20 @@ Mount Ormond Resort,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V
 Wretched Shop,Trapper,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),-1
 The Pale Rose,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),1
 Garden of Joy,Executioner,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),0
-Badham I,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),0
+Badham Preschool I,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),0
 Rancid Abattoir,Nightmare,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (R),Camping Aid Kit (C),Bandages (C),Self Adherant Wrap (U),Fresh Crispleaf Amaranth (U),0
 Suffocation Pit,Hag,1,N,Lithe (V),Resilience (V),Off The Record (V),Windows of Opportunity (V),Toolbox (U),Socket Swivels (U),Scraps (C),,-1
 Mount Ormond Resort,Nemesis,1,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,Murky Reagent (V),2
 Mount Ormond Resort,Wraith,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,Fragrant Crispleaf Amaranth (R),0
 Wreckers Yard,Nurse,4,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,,1
 Coal Tower,Huntress,4,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,,1
-Badham II,Ghostface,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,Escape! Cake (U),1
+Badham Preschool II,Ghostface,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Azarov's Resting Place,Huntress,1,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Quick & Quiet (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
-Midwich,Pig,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
+Midwich Elementary School,Pig,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Camping Aid Kit (C),,,Fresh Bog Laurel (U),0
 The Game,Nurse,4,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Fresh Bog Laurel (U),1
 Dead Dawg Saloon,Cannibal,2,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Fresh Bog Laurel (U),-1
-Badham III,Ghostface,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
-Midwich,Ghostface,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),0
+Badham Preschool III,Ghostface,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
+Midwich Elementary School,Ghostface,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),0
 Coal Tower,Mastermind,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),0
 Coal Tower,Oni,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
 Ironworks of Misery,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Worn-Out Tools (C),Clean Rag (C),,Fresh Crispleaf Amaranth (U),0
@@ -821,10 +821,10 @@ Dead Dawg Saloon,Hillbilly,0,N,Open-Handed (V),Bond (V),Kindred (V),Flashbang (V
 Mount Ormond Resort,Mastermind,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),-1
 Mount Ormond Resort,Twins,3,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
 Treatment Theatre,Pig,2,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),2
-Badham IV,Executioner,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
+Badham Preschool IV,Executioner,1,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
 Lampkin Lane,Cannibal,3,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
 Groaning Storehouse,Executioner,2,N,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),1
-RPD East,Cenobite,1,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),2
+Raccoon City Police Station East Wing,Cenobite,1,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Worn-Out Tools (C),Clean Rag (C),,Bog Laurel Sachet (C),2
 Treatment Theatre,Ghostface,0,N,Open-Handed (V),Bond (V),Kindred (V),Clairvoyance (V),Worn-Out Tools (C),Clean Rag (C),,Sweet William Sachet (C),0
 Eyrie of Crows,Trickster,1,Y,Open-Handed (V),Bond (V),Kindred (V),Clairvoyance (V),Worn-Out Tools (C),Clean Rag (C),Scraps (C),Bog Laurel Sachet (C),0
 The Game,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Clairvoyance (V),Worn-Out Tools (C),Clean Rag (C),Scraps (C),Bog Laurel Sachet (C),1
@@ -848,11 +848,11 @@ Lampkin Lane,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Ca
 Family Residence,Legion,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
 Rotten Fields,Hag,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
 Garden of Joy,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
-Badham I,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
+Badham Preschool I,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
 Mount Ormond Resort,Dredge,2,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
 Dead Dawg Saloon,Cannibal,2,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),2
-Badham IV,Huntress,1,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
-RPD West Wing,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
+Badham Preschool IV,Huntress,1,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
+Raccoon City Police Station West Wing,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
 Shelter Woods,Artist,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),0
 Grim Pantry,Executioner,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),0
 Dead Dawg Saloon,Plague,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Arcane Dowsing Rod (E),1
@@ -875,50 +875,50 @@ Dead Dawg Saloon,Artist,0,N,Windows of Opportunity (V),Dead Hard (V),Resilience 
 Temple of Purgation,Shape,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Annotated Blueprint (C),1
 Family Residence,Ghostface,2,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Rancid Abattoir,Blight,1,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
-Midwich,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),0
+Midwich Elementary School,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),0
 Ironworks of Misery,Ghostface,0,DC,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),-1
 Ironworks of Misery,Executioner,3,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Family Residence,Legion,1,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Grim Pantry,Cannibal,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),0
 Garden of Joy,Trapper,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),0
-RPD West Wing,Cannibal,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
+Raccoon City Police Station West Wing,Cannibal,3,Y,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 The Game,Legion,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Temple of Purgation,Executioner,0,N,Open-Handed (V),Bond (V),Kindred (V),Distortion (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Sanctum of Wrath,Spirit,4,Y,Windows of Opportunity (V),Dead Hard (V),Resilience (V),Deliverance (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
 Torment Creek,Cannibal,2,Y,Windows of Opportunity (V),Dead Hard (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
 Torment Creek,Huntress,3,Y,Windows of Opportunity (V),Dead Hard (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
-RPD East Wing,Cannibal,4,Y,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),2
+Raccoon City Police Station East Wing,Cannibal,4,Y,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),2
 Rancid Abattoir,Huntress,3,N,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Camping Aid Kit (C),,,Escape! Cake (U),0
-Badham IV,Legion,0,N,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Camping Aid Kit (C),,,Escape! Cake (U),1
+Badham Preschool IV,Legion,0,N,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Camping Aid Kit (C),,,Escape! Cake (U),1
 Temple of Purgation,Cenobite,0,N,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Escape! Cake (U),1
 Wreckers Yard,Legion,3,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),1
 The Thompson House,Huntress,1,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),1
-Midwich,Onryo,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),1
+Midwich Elementary School,Onryo,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),1
 The Game,Ghostface,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),1
 Dead Dawg Saloon,Oni,,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),Wire Spool (U),Scraps (C),Arcane Dowsing Rod (E),-1
 The Thompson House,Wraith,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),,Scraps (C),Arcane Dowsing Rod (E),0
 Lampkin Lane,Huntress,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),,Scraps (C),Arcane Dowsing Rod (E),?
 Lampkin Lane,Spirit,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Worn-Out Tools (C),,Scraps (C),Arcane Dowsing Rod (E),-1
 The Game,Nightmare,1,N,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Scraps (C),Annotated Blueprint (C),1
-Midwich,Blight,2,Y,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Scraps (C),Petrified Oak (V),2
+Midwich Elementary School,Blight,2,Y,Windows of Opportunity (V),Off The Record (V),Adrenaline (V),Deliverance (V),Toolbox (U),Brand New Part (L),Scraps (C),Petrified Oak (V),2
 Gas Heaven,Ghostface,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Petrified Oak (V),1
-Midwich,Nurse,2,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),1
-RPD East,Legion,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),1
+Midwich Elementary School,Nurse,2,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),1
+Raccoon City Police Station East Wing,Legion,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),1
 Dead Dawg Saloon,Blight,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),-1
 Azarov's Resting Place,Spirit,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Toolbox (U),Clean Rag (C),Scraps (C),Arcane Dowsing Rod (E),0
 Wreckers Yard,Doctor,2,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Arcane Dowsing Rod (E),0
 Coal Tower,Demogorgon,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Arcane Dowsing Rod (E),0
-Badham III,Dredge,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Bloody Party Streamers (R),2
-RPD West Wing,Twins,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
+Badham Preschool III,Dredge,4,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Bloody Party Streamers (R),2
+Raccoon City Police Station West Wing,Twins,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
 The Game,Cannibal,1,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),1
 Sanctum of Wrath,Cannibal,1,N,Open-Handed (V),Bond (V),Kindred (V),We're Gonna Live Forever (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),-1
 Mount Ormond Resort,Blight,4,Y,Lithe (V),Reassurance (V),We'll Make It (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
-Badham III,Ghostface,3,Y,Kindred (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
+Badham Preschool III,Ghostface,3,Y,Kindred (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Blood Lodge,Cenobite,3,N,Kindred (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
-RPD West Wing,Huntress,2,Y,Kindred (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
+Raccoon City Police Station West Wing,Huntress,2,Y,Kindred (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Blood Lodge,Ghostface,0,N,Empathy (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),-1
 Dead Dawg Saloon,Ghostface,4,Y,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
-Midwich,Mastermind,0,N,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
+Midwich Elementary School,Mastermind,0,N,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Mount Ormond Resort,Wraith,2,N,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
 Rancid Abattoir,Oni,1,Y,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Worn-Out Tools (C),Scraps (C),,Escape! Cake (U),1
 Wretched Shop,Trickster,0,N,Distortion (V),Reassurance (V),We'll Make It (V),Boon: Circle of Healing (V),Worn-Out Tools (C),Scraps (C),,Escape! Cake (U),1
@@ -926,19 +926,19 @@ The Game,Wraith,3,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle o
 Rancid Abattoir,Legion,1,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Toolbox (U),Scraps (C),,Escape! Cake (U),1
 Temple of Purgation,Shape,4,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Toolbox (U),Scraps (C),,Sealed Envelope (U),1
 Mount Ormond Resort,Nurse,2,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
-RPD East,Nightmare,3,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Engineer's Toolbox (V),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
-RPD East,Artist,2,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
+Raccoon City Police Station East Wing,Nightmare,3,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Engineer's Toolbox (V),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
+Raccoon City Police Station East Wing,Artist,2,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Toolbox (U),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
 Treatment Theatre,Plague,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Escape! Cake (U),-1
 Grim Pantry,Oni,1,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Escape! Cake (U),1
 Family Residence,Huntress,2,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Escape! Cake (U),-1
 Temple of Purgation,Dredge,4,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Escape! Cake (U),1
 Shelter Woods,Oni,1,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,,0
-RPD West Wing,Mastermind,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Sealed Envelope (U),-1
+Raccoon City Police Station West Wing,Mastermind,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Sealed Envelope (U),-1
 Azarov's Resting Place,Nemesis,1,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),All Hallows' Eve Lunchbox (E),,,Sealed Envelope (U),-1
 Coal Tower,Dredge,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),First Aid Kit (U),,,Sealed Envelope (U),1
 Treatment Theatre,Artist,1,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),First Aid Kit (U),,,Sealed Envelope (U),0
 Wreckers Yard,Artist,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),First Aid Kit (U),,,Sealed Envelope (U),-1
-Badham IV,Nightmare,4,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Sealed Envelope (U),0
+Badham Preschool IV,Nightmare,4,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Sealed Envelope (U),0
 Groaning Storehouse,Spirit,3,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Alex's Toolbox (V),Hacksaw (R),Protective Gloves (U),Sealed Envelope (U),1
 Ironworks of Misery,Ghostface,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Alex's Toolbox (V),Hacksaw (R),Protective Gloves (U),Sealed Envelope (U),0
 Suffocation Pit,Wraith,2,Y,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Flashlight (U),Hacksaw (R),Leather Grip (C),Sealed Envelope (U),1
@@ -947,9 +947,9 @@ Blood Lodge,Mastermind,1,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: C
 Sanctum of Wrath,Hag,0,N,Distortion (V),Overcome (V),We'll Make It (V),Boon: Circle of Healing (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),-1
 Mount Ormond Resort,Cannibal,1,Y,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),1
 The Game,Ghostface,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Clean Rag (C),Bloody Party Streamers (R),1
-Bad III,Trapper,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Clean Rag (C),Bloody Party Streamers (R),-1
+Badham Preschool III,Trapper,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Clean Rag (C),Bloody Party Streamers (R),-1
 Mount Ormond Resort,Nightmare,4,Y,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
-Badham ?,Deathslinger,1,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),0
+?,Deathslinger,1,N,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),0
 Blood Lodge,Huntress,2,Y,Open-Handed (V),Bond (V),Kindred (V),Left Behind (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Bloody Party Streamers (R),1
 Blood Lodge,Ghostface,4,Y,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
 Mount Ormond Resort,Spirit,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
@@ -957,15 +957,15 @@ The Game,Ghostface,4,Y,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Heal
 Ironworks of Misery,Ghostface,2,Y,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Rancid Abattoir,Executioner,3,Y,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Blood Lodge,Executioner,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),-1
-Badham IV,Doctor,0,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
+Badham Preschool IV,Doctor,0,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
 Gas Heaven,Executioner,1,Y,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),1
-Midwich,Plague,?,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),
+Midwich Elementary School,Plague,?,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),
 Mount Ormond Resort,Mastermind,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1
-Midwich,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),0
-RPD West Wing,Demogorgon,0,N,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),1
+Midwich Elementary School,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),0
+Raccoon City Police Station West Wing,Demogorgon,0,N,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),1
 Eyrie of Crows,Clown,0,N,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Crow's Eye (R),-1
 Dead Dawg Saloon,Nurse,1,N,For The People (V),We're Gonna Live Forever (V),Resilience (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Clean Rag (C),Bound Envelope (R),0
-RPD West Wing,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
+Raccoon City Police Station West Wing,Shape,4,Y,Open-Handed (V),Bond (V),Kindred (V),For The People (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
 Lampkin Lane,Ghostface,1,N,Open-Handed (V),Bond (V),Kindred (V),Balanced Landing (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
 Fractured Cowshed,Oni,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
 Fractured Cowshed,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
@@ -975,19 +975,19 @@ Groaning Storehouse,Onryo,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V)
 Groaning Storehouse,Legion,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
 The Game,Huntress,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
 The Game,Shape,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
-Badham V,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
+Badham Preschool V,Huntress,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
 Temple of Purgation,Dredge,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Alex's Toolbox (V),Protective Gloves (U),Wire Spool (U),Escape! Cake (U),1
 Disturbed Ward,Executioner,2,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Alex's Toolbox (V),Protective Gloves (U),Wire Spool (U),Escape! Cake (U),0
 Fractured Cowshed,Clown,2,N,Open-Handed (V),Bond (V),Kindred (V),Hyperfocus (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Escape! Cake (U),-1
 Garden of Joy,Oni,2,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bound Envelope (R),1
-Badham II,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
+Badham Preschool II,Mastermind,4,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bound Envelope (R),0
 Suffocation Pit,Trickster,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
-RPD West Wing,Pig,4,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),2
+Raccoon City Police Station West Wing,Pig,4,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),2
 Shelter Woods,Cannibal,4,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),0
 The Thompson House,Shape,3,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),0
 Rancid Abattoir,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Bloody Party Streamers (R),1
 Father Campbell's Chapel,Mastermind,2,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Socket Swivels (U),Bloody Party Streamers (R),0
-RPD East,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Socket Swivels (U),Bloody Party Streamers (R),1
+Raccoon City Police Station East Wing,Nemesis,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Socket Swivels (U),Bloody Party Streamers (R),1
 Lampkin Lane,Blight,1,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Socket Swivels (U),Fragrant Bog Laurel (R),0
 Rancid Abattoir,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Commodious Toolbox (R),Brand New Part (L),Socket Swivels (U),Fragrant Bog Laurel (R),-1
 The Thompson House,Mastermind,1,Y,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),Ranger's Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Fragrant Bog Laurel (R),1
@@ -1009,7 +1009,7 @@ Mother's Dwelling,Pig,0,N,Windows of Opportunity (V),Distortion (V),Resilience (
 Disturbed Ward,Plague,0,N,Windows of Opportunity (V),Kindred (V),Adrenaline (V),Deliverance (V),Commodious Toolbox (R),Brand New Part (L),Clean Rag (C),Escape! Cake (U),0
 Lampkin Lane,Blight,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),0
 Garden of Joy,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Any Means Necessary (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
-Midwich,Spirit,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
+Midwich Elementary School,Spirit,1,N,Open-Handed (V),Bond (V),Kindred (V),Boon: Circle of Healing (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
 Lampkin Lane,Executioner,0,N,Open-Handed (V),Bond (V),Kindred (V),Reassurance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
 Lampkin Lane,Nightmare,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Overcome (V),First Aid Kit (U),Bandages (C),Styptic Agent (V),Escape! Cake (U),1
 Mother's Dwelling,Clown,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
@@ -1017,47 +1017,47 @@ Lampkin Lane,Hag,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance 
 Mount Ormond Resort,Mastermind,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),Annotated Blueprint (C),1
 Sanctum of Wrath,Trickster,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Ranger's Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),-1
 Dead Dawg Saloon,Deathslinger,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),0
-RPD West Wing,Ghostface,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
+Raccoon City Police Station West Wing,Ghostface,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
 Fractured Cowshed,Huntress,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
 Wreckers Yard,Wraith,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
 Gas Heaven,Spirit,2,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),1
-RPD West Wing,Pig,2,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),2
-RPD East Wing,Nurse,2,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),0
+Raccoon City Police Station West Wing,Pig,2,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),2
+Raccoon City Police Station East Wing,Nurse,2,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Annotated Blueprint (C),0
 Lampkin Lane,Deathslinger,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),0
-Bad IV,Spirit,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),1
+Badham Preschool IV,Spirit,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),1
 Eyrie of Crows,Mastermind,4,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),2
-Badham IV,Ghostface,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),Bloody Party Streamers (R),1
+Badham Preschool IV,Ghostface,3,Y,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),Bloody Party Streamers (R),1
 Torment Creek,Wraith,0,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),Emergency Med-Kit (R),Self-Adherent Wrap (U),Bandages (C),,1
 Sanctum of Wrath,Mastermind,0,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),,,,,1
-Badham IV,Blight,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
+Badham Preschool IV,Blight,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
 Rotten Fields,Mastermind,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),-1
-Midwich,Huntress,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
-Badham II,Hillbilly,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Midwich Elementary School,Huntress,4,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Badham Preschool II,Hillbilly,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
 Wreckers Yard,Onryo,1,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
-RPD East,Plague,1,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
+Raccoon City Police Station East Wing,Plague,1,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
 Mount Ormond Resort,Mastermind,1,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
 Family Residence,Spirit,3,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
 Mount Ormond Resort,Plague,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
 Treatment Theatre,Trapper,3,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
 Torment Creek,Ghostface,2,Y,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
 Eyrie of Crows,Nemesis,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),-1
-RPD East,Spirit,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
+Raccoon City Police Station East Wing,Spirit,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
 Family Residence,Shape,0,N,Sole Survivor (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),0
 The Game,Cenobite,2,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
 Eyrie of Crows,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Annotated Blueprint (C),0
 Lampkin Lane,Pig,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),0
-Midwich,Deathslinger,0,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Annotated Blueprint (C),-1
-Bad IV,Cannibal,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Vigo's Jar of Salty Lips (V),-1
+Midwich Elementary School,Deathslinger,0,DC,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Annotated Blueprint (C),-1
+Badham Preschool IV,Cannibal,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Vigo's Jar of Salty Lips (V),-1
 Gas Heaven,Nemesis,0,N,Object of Obsession (V),Off The Record (V),Resilience (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),0
-RPD East,Onryo,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),2
+Raccoon City Police Station East Wing,Onryo,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),2
 The Game,Wraith,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),0
 Garden of Joy,Spirit,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
-RPD West Wing,Twins,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
+Raccoon City Police Station West Wing,Twins,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
 Lampkin Lane,Oni,2,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Bloody Party Streamers (R),1
-Bad IV,Mastermind,1,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
-Midwich,Knight,0,N,Open-Handed (V),Bond (V),Kindred (V),Potential Energy (U),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),-1
+Badham Preschool IV,Mastermind,1,N,Adrenaline (V),Resilience (V),Dead Hard (V),Deliverance (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Escape! Cake (U),1
+Midwich Elementary School,Knight,0,N,Open-Handed (V),Bond (V),Kindred (V),Potential Energy (U),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),-1
 Family Residence,Knight,1,N,Open-Handed (V),Bond (V),Kindred (V),Potential Energy (U),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),0
-Bad IV,Twins,4,Y,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Escape! Cake (U),1
+Badham Preschool IV,Twins,4,Y,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Escape! Cake (U),1
 Groaning Storehouse,Knight,0,N,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Escape! Cake (U),1
 Fractured Cowshed,Knight,4,Y,Fogwise (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Sealed Envelope (U),1
 The Game,Knight,2,N,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Self-Adherent Wrap (U),Gauze Roll (U),Sealed Envelope (U),1
@@ -1069,15 +1069,15 @@ Eyrie of Crows,Nemesis,4,Y,Object of Obsession (V),Off The Record (V),Windows of
 Eyrie of Crows,Hillbilly,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Sweet William (R),1
 Family Residence,Blight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Sweet William (R),0
 Shattered Square,Deathslinger,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),1
-Midwich,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),0
+Midwich Elementary School,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),0
 Lampkin Lane,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),0
 The Pale Rose,Knight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Surgical Suture (R),Fragrant Sweet William (R),1
 Groaning Storehouse,Nemesis,1,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Shiny Coin (V),-1
-Midwich,Wraith,0,N,Quick Gambit (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),,Sealed Envelope (U),1
+Midwich Elementary School,Wraith,0,N,Quick Gambit (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),,Sealed Envelope (U),1
 Rotten Fields,Executioner,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),,Bloody Party Streamers (R),1
-RPD East,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+Raccoon City Police Station East Wing,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
 Garden of Joy,Hag,1,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sacrificial Ward (R),2
-Bad V,Onryo,2,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
+Badham Preschool V,Onryo,2,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sealed Envelope (U),1
 The Game,Huntress,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sealed Envelope (U),2
 Mount Ormond Resort,Onryo,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
 The Pale Rose,Oni,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
@@ -1090,33 +1090,166 @@ Shattered Square,Nightmare,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows 
 Lampkin Lane,Mastermind,3,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),1
 Wretched Shop,Oni,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
 Shattered Square,Huntress,3,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),1
-RPD East,Nurse,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
-Midwich,Nurse,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
-Bad V,Ghostface,3,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Bandages (C),Surgical Suture (R),Shiny Coin (V),1
+Raccoon City Police Station East Wing,Nurse,4,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Midwich Elementary School,Nurse,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
+Badham Preschool V,Ghostface,3,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Bandages (C),Surgical Suture (R),Shiny Coin (V),1
 Disturbed Ward,Doctor,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Fragrant Crispleaf Amaranth (R),-1
 Lampkin Lane,Ghostface,3,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Fragrant Crispleaf Amaranth (R),2
 The Game,Trapper,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),2
-RPD East,Blight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+Raccoon City Police Station East Wing,Blight,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
 The Game,Huntress,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),0
 Shattered Square,Knight,2,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Self-Adherent Wrap (U),Fragrant Crispleaf Amaranth (R),1
 The Game,Pig,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Self-Adherent Wrap (U),Escape! Cake (U),1
 Groaning Storehouse,Wraith,1,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
 Father Campbell's Chapel,Nemesis,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Ranger's Med-Kit (V),Gel Dressings (R),Bandages (C),Escape! Cake (U),-1
-RPD East,Dredge,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),0
-RPD West Wing,Shape,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
-RPD East,Blight,2,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Utility Flashlight (V),Long Life Battery (R),Heavy Duty Battery (U),RPD Badge (R),1
-RPD East,Nurse,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
-RPD East,Huntress,,DC,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),RPD Badge (R),-1
-RPD West Wing,Pig,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
-father Campbell's Chapel,Huntress,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sacrificial Ward (R),-1
-RPD East,Trapper,2,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
-RPD West Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),RPD Badge (R),0
-Midwich,Twins,1,Y,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Raccoon City Police Station East Wing,Dredge,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),0
+Raccoon City Police Station West Wing,Shape,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
+Raccoon City Police Station East Wing,Blight,2,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Utility Flashlight (V),Long Life Battery (R),Heavy Duty Battery (U),RPD Badge (R),1
+Raccoon City Police Station East Wing,Nurse,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),-1
+Raccoon City Police Station East Wing,Huntress,,DC,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),RPD Badge (R),-1
+Raccoon City Police Station West Wing,Pig,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+Father Campbell's Chapel,Huntress,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Sacrificial Ward (R),-1
+Raccoon City Police Station East Wing,Trapper,2,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Bandages (C),RPD Badge (R),1
+Raccoon City Police Station West Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),RPD Badge (R),0
+Midwich Elementary School,Twins,1,Y,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
 Treatment Theatre,Knight,0,N,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),1
 Mount Ormond Resort,Knight,0,N,Any Means Necessary (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),2
 The Game,Deathslinger,0,N,Repressed Alliance (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
 Garden of Joy,Ghostface,4,Y,Potential Energy (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Surgical Suture (R),Bandages (C),Ichorous Loam (R),2
-RPD West Wing,Nemesis,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),1
+Raccoon City Police Station West Wing,Nemesis,4,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),1
 Eyrie of Crows,Cannibal,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Ichorous Loam (R),-1
-RPD West Wing,Blight,0,N,Flashbang (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),-1
-RPD East Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),RPD Badge (R),0
+Raccoon City Police Station West Wing,Blight,0,N,Flashbang (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),-1
+Raccoon City Police Station East Wing,Knight,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),RPD Badge (R),0
+Raccoon City Police Station East Wing,Artist,0,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),RPD Badge (R),1
+Suffocation Pit,Spirit,1,Y,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Petrified Oak (V),-1
+Shelter Woods,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Escape! Cake (U),1
+Fractured Cowshed,Artist,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Escape! Cake (U),1
+Garden of Joy,Onryo,3,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
+The Game,Mastermind,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),1
+Treatment Theatre,Hag,3,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Annotated Blueprint (C),0
+Coal Tower,Hillbilly,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),0
+Raccoon City Police Station East Wing,Doctor,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),0
+Fractured Cowshed,Cenobite,3,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Broken Key (R),Prayer Beads (U),Blood Amber (V),Petrified Oak (V),0
+Shelter Woods,Mastermind,1,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Anti-Haemorrhagic Syringe (L),Petrified Oak (V),0
+Raccoon City Police Station East Wing,Nurse,0,N,Sole Survivor (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
+Coal Tower,Nemesis,1,N,Resilience (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Sealed Envelope (U),1
+The Thompson House,Trapper,1,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Petrified Oak (V),-1
+Mount Ormond Resort,Blight,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Petrified Oak (V),1
+Wretched Shop,Wraith,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Petrified Oak (V),-1
+Ironworks of Misery,Clown,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Petrified Oak (V),0
+Mount Ormond Resort,Executioner,1,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Ranger's Med-Kit (V),Bandages (C),Surgical Suture (R),Petrified Oak (V),1
+Temple of Purgation,Blight,0,N,Any Means Necessary (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),0
+The Game,Cenobite,0,N,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Sealed Envelope (U),0
+The Game,Cannibal,2,Y,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),0
+Temple of Purgation,Artist,1,Y,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),0
+Dead Dawg Saloon,Spirit,,DC,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Petrified Oak (V),-1
+Blood Lodge,Pig,3,Y,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Petrified Oak (V),2
+The Thompson House,Legion,0,N,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),Ranger's Med-Kit (V),Gel Dressings (R),Gauze Roll (U),Petrified Oak (V),1
+Wreckers Yard,Shape,3,N,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),,,Petrified Oak (V),1
+Eyrie of Crows,Spirit,0,N,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),,,Petrified Oak (V),-1
+???,Nemesis,,,We're Gonna Live Forever (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),,,Petrified Oak (V),0
+Raccoon City Police Station West Wing,Spirit,2,Y,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),2
+Temple of Purgation,Plague,0,N,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Flashlight (U),,,Fragrant Bog Laurel (R),0
+Family Residence,Wraith,3,Y,Distortion (V),Kindred (V),Dead Hard (V),Windows of Opportunity (V),Flashlight (U),,,Fragrant Bog Laurel (R),1
+Raccoon City Police Station East Wing,Huntress,4,Y,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),RPD Badge (R),1
+Mount Ormond Resort,Shape,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),-1
+Grim Pantry,Blight,0,N,Open-Handed (V),Bond (V),Kindred (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Bloody Party Streamers (R),-1
+Eyrie of Crows,Nightmare,1,N,Potential Energy (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Escape! Cake (U),0
+Mount Ormond Resort,Hillbilly,1,N,Potential Energy (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Escape! Cake (U),0
+Sanctum of Wrath,Oni,4,Y,Windows of Opportunity (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),,Bandages (C),Sealed Envelope (U),2
+Garden of Joy,Spirit,0,N,Windows of Opportunity (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),,Bandages (C),Sealed Envelope (U),-1
+Garden of Joy,Trapper,4,Y,Windows of Opportunity (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Petrified Oak (V),1
+Mount Ormond Resort,Ghostface,0,N,Windows of Opportunity (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Petrified Oak (V),1
+Mount Ormond Resort,Wraith,0,N,Windows of Opportunity (V),Botany Knowledge (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Self-Adherent Wrap (U),Bandages (C),Petrified Oak (V),-1
+Rotten Fields,Demogorgon,4,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Sealed Envelope (U),1
+Torment Creek,Nemesis,0,N,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Primrose Blossom (R),0
+Badham Preschool III,Blight,4,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Primrose Blossom (R),0
+Suffocation Pit,Spirit,2,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Bog Laurel (R),0
+Grim Pantry,Spirit,1,N,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),0
+Raccoon City Police Station East Wing,Hillbilly,1,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),2
+Groaning Storehouse,Onryo,0,N,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),1
+Eyrie of Crows,Trapper,4,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),0
+Midwich Elementary School,Ghostface,3,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),1
+Mount Ormond Resort,Legion,2,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Wire Spool (U),Fragrant Bog Laurel (R),1
+Treatment Theatre,Mastermind,3,Y,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Scraps (C),Ichorous Loam (R),1
+Badham Preschool V,Trapper,0,N,Deja Vu (V),Off The Record (V),Dead Hard (V),Windows of Opportunity (V),Commodious Toolbox (R),Brand New Part (L),Scraps (C),Fragrant Bog Laurel (R),0
+The Game,Executioner,3,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Annotated Blueprint (C),0
+Torment Creek,Legion,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Annotated Blueprint (C),0
+Rotten Fields,Nightmare,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Escape! Cake (U),-1
+Coal Tower,Ghostface,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Escape! Cake (U),-1
+Father Campbell's Chapel,Legion,2,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Escape! Cake (U),0
+Lampkin Lane,Huntress,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Crispleaf Amaranth (R),1
+Raccoon City Police Station East Wing,Nemesis,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Fragrant Crispleaf Amaranth (R),0
+The Game,Nemesis,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Gauze Roll (U),Fragrant Crispleaf Amaranth (R),1
+Wreckers Yard,Plague,1,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Self-Adherent Wrap (U),Fragrant Crispleaf Amaranth (R),0
+Raccoon City Police Station East Wing,Knight,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Crispleaf Amaranth (R),0
+Shattered Square,Blight,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Crispleaf Amaranth (R),1
+Groaning Storehouse,Plague,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Crispleaf Amaranth (R),0
+Eyrie of Crows,Mastermind,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Wire Spool (U),Socket Swivels (U),Fragrant Bog Laurel (R),0
+Lampkin Lane,Mastermind,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Wire Spool (U),Socket Swivels (U),Fragrant Bog Laurel (R),
+Rancid Abattoir,Wraith,4,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Wire Spool (U),Socket Swivels (U),Fragrant Bog Laurel (R),0
+Badham Preschool III,Shape,2,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Wire Spool (U),Socket Swivels (U),Fragrant Bog Laurel (R),0
+Badham Preschool I,Wraith,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Fragrant Bog Laurel (R),0
+Torment Creek,Knight,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Fragrant Bog Laurel (R),0
+Rancid Abattoir,Knight,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Scraps (C),Socket Swivels (U),Escape! Cake (U),0
+Treatment Theatre,Deathslinger,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Emergency Med-Kit (R),Gauze Roll (U),Medical Scissors (U),Bound Envelope (R),0
+Disturbed Ward,Pig,0,N,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),Commodious Toolbox (R),Socket Swivels (U),Clean Rag (C),Bound Envelope (R),0
+Fractured Cowshed,Legion,1,Y,Deja Vu (V),Off The Record (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Bound Envelope (R),0
+Raccoon City Police Station East Wing,Nightmare,4,Y,Windows of Opportunity (V),Resilience (V),Off The Record (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Petrified Oak (V),0
+Shelter Woods,Spirit,0,N,Windows of Opportunity (V),Resilience (V),Off The Record (V),Dead Hard (V),First Aid Kit (U),Bandages (C),Self-Adherent Wrap (U),Petrified Oak (V),0
+Fractured Cowshed,Executioner,0,N,Windows of Opportunity (V),Desperate Measures (V),Botany Knowledge (V),We'll Make It (V),Emergency Med-Kit (R),Gel Dressings (R),Medical Scissors (U),Escape! Cake (U),0
+Shattered Square,Nemesis,0,N,Dead Hard (V),Desperate Measures (V),Botany Knowledge (V),We'll Make It (V),First Aid Kit (U),Surgical Suture (R),Needle & Thread (U),Escape! Cake (U),0
+Mount Ormond Resort,Legion,4,Y,Deja Vu (V),Dead Hard (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Fragrant Crispleaf Amaranth (R),0
+Lampkin Lane,Cenobite,1,N,Deja Vu (V),Dead Hard (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Crispleaf Amaranth (R),0
+Midwich Elementary School,Nemesis,0,N,Deja Vu (V),Dead Hard (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Crispleaf Amaranth (R),0
+Raccoon City Police Station East Wing,Huntress,3,Y,Deja Vu (V),Dead Hard (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
+Shattered Square,Mastermind,0,N,Deja Vu (V),Dead Hard (V),Built To Last (V),Windows of Opportunity (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Escape! Cake (U),1
+Father Campbell's Chapel,Artist,0,N,Deja Vu (V),Dead Hard (V),Built To Last (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Escape! Cake (U),0
+Sanctum of Wrath,Hag,0,N,Deja Vu (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Petrified Oak (V),0
+Midwich Elementary School,Pig,0,N,Deja Vu (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Gel Dressings (R),Bandages (C),Petrified Oak (V),1
+Midwich Elementary School,Spirit,0,DC,Unbreakable (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Petrified Oak (V),1
+Azarov's Resting Place,Nemesis,2,N,Resilience (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Petrified Oak (V),1
+Sanctum of Wrath,Onryo,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),2
+Raccoon City Police Station East Wing,Huntress,0,N,Deja Vu (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),White Ward (V),0
+Shelter Woods,Nemesis,1,N,Decisive Strike (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),0
+Garden of Joy,Nurse,2,N,Open-Handed (V),Bond (V),Kindred (V),Off The Record (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),0
+Fractured Cowshed,Wraith,0,N,Decisive Strike (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),1
+Temple of Purgation,Dredge,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),1
+The Thompson House,Ghostface,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),1
+Mount Ormond Resort,Demogorgon,3,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),0
+Gas Heaven,Knight,4,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),1
+Blood Lodge,Pig,1,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),0
+Mount Ormond Resort,Pig,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),0
+Shattered Square,Dredge,4,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),0
+Shattered Square,Mastermind,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Fragrant Sweet William (R),
+Raccoon City Police Station East Wing,Oni,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Azarov's Resting Place,Pig,1,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Shelter Woods,Oni,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Lampkin Lane,Ghostface,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Self-Adherent Wrap (U),Bandages (C),Sealed Envelope (U),1
+Disturbed Ward,Deathslinger,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),1
+Blood Lodge,Ghostface,3,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),1
+Lampkin Lane,Legion,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),0
+Midwich Elementary School,Executioner,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Camping Aid Kit (C),Gel Dressings (R),Surgical Suture (R),Sealed Envelope (U),1
+Dead Dawg Saloon,Ghostface,1,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),1
+Azarov's Resting Place,Trapper,2,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),1
+Fractured Cowshed,Demogorgon,3,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),1
+Suffocation Pit,Nurse,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),0
+Shattered Square,Dredge,2,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),2
+Eyrie of Crows,Ghostface,3,Y,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),1
+Azarov's Resting Place,Plague,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Escape! Cake (U),-1
+Mount Ormond Resort,Nightmare,4,Y,Blood Pact (V),Desperate Measures (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Fractured Cowshed,Wraith,0,N,No One Left Behind (V),Desperate Measures (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Escape! Cake (U),0
+Disturbed Ward,Mastermind,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),First Aid Kit (U),Bandages (C),Surgical Suture (R),Escape! Cake (U),1
+Badham Preschool IV,Doctor,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Sole Survivor (V),Ranger's Med-Kit (V),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),0
+Grim Pantry,Ghostface,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Alex's Toolbox (V),Hacksaw (R),Protective Gloves (U),Escape! Cake (U),0
+Midwich Elementary School,Ghostface,4,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1
+Shattered Square,Nemesis,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1
+Raccoon City Police Station East Wing,Shape,1,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),0
+The Pale Rose,Doctor,4,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),0
+Shattered Square,Dredge,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1
+Lampkin Lane,Trickster,1,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),0
+Raccoon City Police Station East Wing,Huntress,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),0
+Garden of Joy,Legion,3,Y,Windows of Opportunity (V),Desperate Measures (V),We'll Make It (V),Dead Hard (V),First Aid Kit (U),Surgical Suture (R),Bandages (C),Bloody Party Streamers (R),0
+Dead Dawg Saloon,Knight,4,Y,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Bloody Party Streamers (R),1
+Badham Preschool IV,Shape,0,N,Windows of Opportunity (V),Dead Hard (V),Off The Record (V),Distortion (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),0
+The Game,Knight,0,N,Object of Obsession (V),Off The Record (V),Windows of Opportunity (V),Dead Hard (V),Emergency Med-Kit (R),Gel Dressings (R),Surgical Suture (R),Escape! Cake (U),1

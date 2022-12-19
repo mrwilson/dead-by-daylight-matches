@@ -8,6 +8,7 @@ IGNORED_FIELDS = [
     "notes",
     "noteworthy?",
     "swf",
+    "perk_value"
 ]
 
 
