@@ -21,10 +21,13 @@ with open("survivor.csv", "w") as output:
         input_csv = csv.DictReader(input)
         fields = [
             field for field in input_csv.fieldnames if field not in IGNORED_FIELDS
-        ]
+        ] + ["swf"]
 
         output_csv = csv.DictWriter(output, fieldnames=fields)
         output_csv.writeheader()
 
         for row in input_csv:
-            output_csv.writerow({field: clean(row[field]) for field in fields})
+            columns = {field: clean(row[field]) for field in fields}
+            columns["swf"] = "N" if row["swf"] == "" else "Y"
+
+            output_csv.writerow(columns)
